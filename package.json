@@ -1,0 +1,1 @@
+{"description":"API + agent skill for finding server hosting providers (VPS, dedicated, bare metal, cloud, shared, colocation) from a verified 710-provider dataset. Free tier included.","name":"hosting-finder","private":true,"scripts":{"test":"node test-api.js"},"version":"0.1.0"}

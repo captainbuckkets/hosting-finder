@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name='impact-site-verification' value='fa135181-5a6b-4c4c-8a51-eb918beffec5'>
+<title>Hosting Finder — Find the right server hosting provider</title>
+<meta name="description" content="Search 813 verified server hosting providers (VPS, dedicated, bare metal, cloud, shared, colocation) across 149 countries. Free API + agent skill.">
+<style>
+body { font-family: system-ui, sans-serif; max-width: 860px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; color: #1a1a1a; }
+h1 { font-size: 1.8rem; margin-bottom: .2rem; }
+.sub { color: #555; margin-top: 0; }
+form { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1.2rem 0; }
+form input, form select { font: inherit; padding: .45rem .6rem; border: 1px solid #bbb; border-radius: 6px; }
+form input[type="search"] { flex: 2 1 220px; }
+form button { font: inherit; padding: .45rem 1rem; border: 0; border-radius: 6px; background: #0066cc; color: #fff; cursor: pointer; }
+form button:hover { background: #0055aa; }
+#status { color: #555; font-size: .95rem; }
+.result { border: 1px solid #ddd; border-radius: 8px; padding: .7rem 1rem; margin: .6rem 0; }
+.result h3 { margin: 0 0 .2rem; font-size: 1.05rem; }
+.result h3 a { color: #0066cc; text-decoration: none; }
+.result h3 a:hover { text-decoration: underline; }
+.result .meta { color: #333; margin: .1rem 0; }
+.result .price { font-weight: 600; }
+.aff { font-size: .8rem; color: #777; }
+code { background: #f0f0f0; padding: 0.15em 0.4em; border-radius: 4px; }
+pre { background: #f0f0f0; padding: 1rem; border-radius: 6px; overflow-x: auto; }
+a { color: #0066cc; }
+footer { margin-top: 2rem; border-top: 1px solid #ddd; padding-top: 1rem; font-size: .9rem; color: #555; }
+</style>
+</head>
+<body>
+<h1>Hosting Finder</h1>
+<p class="sub">Find the right server hosting provider — VPS, dedicated, bare metal, cloud, shared, or colocation — from a verified dataset of <strong>813 providers across 149 countries</strong>.</p>
+
+<form id="search-form">
+  <input type="search" id="q" name="q" placeholder="Search provider or website (e.g. IONOS)" autocomplete="off">
+  <input type="text" id="country" name="country" placeholder="Country" list="countries" autocomplete="off">
+  <datalist id="countries">
+<option value="12 jurisdictions"><option value="31 jurisdictions"><option value="Albania"><option value="Algeria"><option value="Angola"><option value="Argentina"><option value="Armenia"><option value="Australia"><option value="Austria"><option value="Bahamas"><option value="Bahrain"><option value="Bangladesh"><option value="Barbados"><option value="Belarus"><option value="Belgium"><option value="Belize"><option value="Belize (incorporated)"><option value="Bolivia"><option value="Bosnia &amp; Herzegovina"><option value="Bosnia and Herzegovina"><option value="Botswana"><option value="Brazil"><option value="Brunei"><option value="Bulgaria"><option value="Cambodia"><option value="Cameroon"><option value="Canada"><option value="Canada (FranTech Solutions; operating US + Luxembourg)"><option value="Caribbean"><option value="Chile"><option value="China"><option value="Colombia"><option value="Costa Rica"><option value="Croatia"><option value="Cuba"><option value="Cyprus"><option value="Czech Republic"><option value="Czechia"><option value="Côte d&#x27;Ivoire"><option value="Denmark"><option value="Dominica"><option value="Dominican Republic"><option value="Ecuador"><option value="Egypt"><option value="El Salvador"><option value="Estonia"><option value="Ethiopia"><option value="Fiji"><option value="Finland"><option value="France"><option value="Georgia"><option value="Germany"><option value="Ghana"><option value="Greece"><option value="Guatemala"><option value="Hong Kong"><option value="Hong Kong (China)"><option value="Hong Kong (HQ country not stated explicitly — flag)"><option value="Hungary"><option value="Iceland"><option value="India"><option value="Indonesia"><option value="Iraq"><option value="Ireland"><option value="Israel"><option value="Italy"><option value="Japan"><option value="Jordan"><option value="Kazakhstan"><option value="Kazakhstan (directory-listed; no HQ stated on own site)"><option value="Kenya"><option value="Kosovo"><option value="Kuwait"><option value="Kyrgyzstan"><option value="Laos"><option value="Latvia"><option value="Lebanon"><option value="Lithuania"><option value="Luxembourg"><option value="Macau"><option value="Madagascar"><option value="Malaysia"><option value="Malta"><option value="Mauritius"><option value="Mexico"><option value="Moldova"><option value="Morocco"><option value="Mozambique"><option value="Myanmar"><option value="Namibia"><option value="Netherlands"><option value="Netherlands (reported)"><option value="New Zealand"><option value="Nigeria"><option value="North Macedonia"><option value="Norway"><option value="Pakistan"><option value="Panama"><option value="Papua New Guinea"><option value="Paraguay"><option value="Peru"><option value="Philippines"><option value="Poland"><option value="Portugal"><option value="Puerto Rico"><option value="Qatar"><option value="Romania"><option value="Russia"><option value="Russia (locations; no HQ stated on own site)"><option value="Russia (privacy jurisdictions; no HQ stated)"><option value="Rwanda"><option value="Saint Kitts and Nevis"><option value="Saint Kitts and Nevis (Nevis)"><option value="Saudi Arabia"><option value="Senegal"><option value="Serbia"><option value="Seychelles"><option value="Singapore"><option value="Slovenia"><option value="South Africa"><option value="South Korea"><option value="Spain"><option value="Sri Lanka"><option value="St. Kitts &amp; Nevis (business address)"><option value="Sweden"><option value="Sweden (waitlist)"><option value="Switzerland"><option value="Taiwan"><option value="Tanzania"><option value="Thailand"><option value="Tonga"><option value="Trinidad &amp; Tobago"><option value="Tunisia"><option value="Turkey"><option value="Uganda"><option value="Ukraine"><option value="United Arab Emirates"><option value="United Kingdom"><option value="United Kingdom (CONFLICT — see notes)"><option value="United States"><option value="United States (operating)"><option value="United States (operating; HQ country not stated)"><option value="Uruguay"><option value="Uzbekistan"><option value="Venezuela"><option value="Vietnam"><option value="Yemen"><option value="Zambia"><option value="Zimbabwe">
+  </datalist>
+  <select id="type" name="type" aria-label="Hosting type">
+    <option value="">Any type</option>
+    <option value="vps">VPS</option>
+    <option value="dedicated">Dedicated</option>
+    <option value="bare-metal">Bare metal</option>
+    <option value="cloud">Cloud</option>
+    <option value="shared">Shared</option>
+    <option value="colocation">Colocation</option>
+  </select>
+  <input type="number" id="max_price" name="max_price" placeholder="Max $/mo" min="0" step="any">
+  <button type="submit">Search</button>
+</form>
+
+<p id="status">Loading providers&hellip;</p>
+<div id="results"></div>
+
+<h2>API</h2>
+<pre>GET /api/search?type=vps&amp;country=Germany&amp;max_price=10&amp;limit=10
+GET /api/provider?id=H0001
+GET /api/stats</pre>
+<p>Free tier: no key needed, 10 results per query, 20 requests/day per IP. Paid tier (API key): 100 results, all fields, 200/day.</p>
+
+<h2>Agent skill</h2>
+<p>An agent skill (<code>SKILL.md</code>) for Claude Code, Cursor, Codex, Copilot and other agents queries this same API. The full dataset lives at <code>/api</code> — see <a href="/api/stats">dataset stats</a>.</p>
+
+<footer>
+<p>This service is affiliate-supported: when you buy through a provider link here, we may earn a commission at no extra cost to you. Recommendations are ranked by fit (price, country, type), not by payout.</p>
+</footer>
+
+<script>
+const form = document.getElementById('search-form');
+const statusEl = document.getElementById('status');
+const resultsEl = document.getElementById('results');
+
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+async function runSearch() {
+  const params = new URLSearchParams();
+  const q = document.getElementById('q').value.trim();
+  const country = document.getElementById('country').value.trim();
+  const type = document.getElementById('type').value;
+  const maxPrice = document.getElementById('max_price').value;
+  if (q) params.set('q', q);
+  if (country) params.set('country', country);
+  if (type) params.set('type', type);
+  if (maxPrice) params.set('max_price', maxPrice);
+  params.set('limit', '10');
+  statusEl.textContent = 'Searching…';
+  resultsEl.innerHTML = '';
+  try {
+    const res = await fetch('/api/search?' + params.toString());
+    const data = await res.json();
+    if (!res.ok) {
+      statusEl.textContent = data.error === 'rate_limited'
+        ? 'Rate limit reached (20 searches/day on the free tier). Try again tomorrow.'
+        : 'Search failed. Please try again.';
+      return;
+    }
+    if (!data.results || data.results.length === 0) {
+      statusEl.textContent = 'No providers match. Try loosening a filter (usually price or country).';
+      return;
+    }
+    statusEl.textContent = 'Showing ' + data.returned + ' of ' + data.total + ' matching providers.';
+    resultsEl.innerHTML = data.results.map(p => {
+      const url = p.affiliate_url || ('https://' + p.website);
+      const price = p.starting_price ? esc(p.starting_price) : 'price not listed';
+      const aff = p.affiliate_url ? ' <span class="aff">(affiliate link)</span>' : '';
+      return '<div class="result"><h3><a href="' + esc(url) + '" target="_blank" rel="noopener sponsored">' + esc(p.provider) + '</a>' + aff + '</h3>'
+        + '<p class="meta">' + esc(p.website) + ' &middot; ' + esc((p.countries || []).join(', ')) + '</p>'
+        + '<p class="meta">' + esc(p.hosting_type || 'Hosting provider') + '</p>'
+        + '<p class="meta price">From ' + price + '</p></div>';
+    }).join('');
+  } catch (e) {
+    statusEl.textContent = 'Search failed (network error). Please try again.';
+  }
+}
+
+form.addEventListener('submit', e => { e.preventDefault(); runSearch(); });
+runSearch();
+</script>
+</body>
+</html>
