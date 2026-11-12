@@ -1,1 +1,2108 @@
-[{"id":"H0352","provider":"Funio","website":"funio.com","countries":["Canada"],"locations":"Montreal, QC (3 datacenters)","hosting_type":"Managed VPS","starting_price":"$4.99/mo","price_note":"From ~$34.10/mo promo (WHTop) vs HostAdvice VPS XS $4.99/mo and 2 GB $39.95/mo — conflict, flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Verdun, Quebec; since 1999; brand under Miss Group; no dedicated line","date_added":"2026-11-06","affiliate_url":null},{"id":"H0353","provider":"Alastyr","website":"alastyr.com","countries":["Turkey"],"locations":"Turkey","hosting_type":"VPS | VDS | Dedicated | Colocation","starting_price":"$2.79/mo","price_note":"VPS from $2.79/mo (WHTop VPS S, 2020 listing) vs Cosmic VPS 1 $11.00/mo (Oct 3, 2026) vs $6.99/mo ex VAT — conflict, flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"İzmir; founded 2002; own datacenter in Bornova, İzmir","date_added":"2026-11-06","affiliate_url":null},{"id":"H0354","provider":"ADW.es","website":"adw.es","countries":["Spain"],"locations":"Madrid | Zamudio","hosting_type":"VPS | Dedicated","starting_price":"€14.16/mo","price_note":"VPS XS from €14.16/mo (annual contract, WHTop) vs €11.21/mo ex VAT figure also shown — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"ADW Europe SL, Abadiño/Bizkaia; since 1996; own datacenters Madrid + Zamudio","date_added":"2026-11-06","affiliate_url":null},{"id":"H0355","provider":"iv.lt","website":"iv.lt","countries":["Lithuania"],"locations":"Vilnius","hosting_type":"VPS","starting_price":"","price_note":"Starting price NOT established in this pass (own VPS page confirms Linux/Windows/container plans, Vilnius location; plan prices did not surface)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Interneto vizija, Vilnius, J. Kubiliaus st. 6","date_added":"2026-11-06","affiliate_url":null},{"id":"H0356","provider":"sered.net","website":"sered.net","countries":["Spain"],"locations":"Madrid | Barcelona | Montreal","hosting_type":"VPS | Cloud | Dedicated","starting_price":"$22.36/mo","price_note":"VPS from $22.36/mo (HostAdvice); dedicated $145.74–$233.18/mo","crypto":"BTC (GoogieHost)","kyc":"","dmca_stance":"","privacy_notes":"SOLUCIONES WEB ON LINE S.L.U., Galicia; since 2009; part of Miss Group; Chile/Brazil locations per GoogieHost","date_added":"2026-11-06","affiliate_url":null},{"id":"H0357","provider":"StableHost","website":"stablehost.com","countries":["United States"],"locations":"United States","hosting_type":"VPS | Dedicated","starting_price":"$9.12/mo","price_note":"VPS from $9.12/mo vs $10.95/mo vs $11.49/mo (secondary sources conflict — flag); dedicated $145–$245/mo","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Scottsdale, Arizona; founded 2009; now part of Miss Group","date_added":"2026-11-06","affiliate_url":null},{"id":"H0358","provider":"Asushost","website":"asushost.co.ke","countries":["Kenya"],"locations":"Kenya","hosting_type":"VPS | Dedicated","starting_price":"","price_note":"Starting VPS price NOT established (VPS/dedicated by tailored quote; overall price range KSh 215–28,700/mo covers all products)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Asushost Limited, Westlands, Nairobi + Thika; founded 2016; 100% Kenyan-owned","date_added":"2026-11-06","affiliate_url":null},{"id":"H0359","provider":"cdmon","website":"cdmon.com","countries":["Spain"],"locations":"Spain","hosting_type":"Managed VPS | Dedicated","starting_price":"€89.95/mo","price_note":"Managed VPS from €89.95/mo total (€29.00 hardware + €60.95 admin, ex VAT, own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"10dencehispahard SLU, Malgrat de Mar near Barcelona; since 2002","date_added":"2026-11-06","affiliate_url":null},{"id":"H0360","provider":"SERVA","website":"serva.one","countries":["United Kingdom"],"locations":"Netherlands | Germany | Poland | Latvia | Switzerland | United States | Italy | Romania | Bulgaria","hosting_type":"KVM VPS","starting_price":"€4.99/mo","price_note":"From €4.99/mo (Micro, own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"SERVA ONE LTD, registered in England","date_added":"2026-11-06","affiliate_url":null},{"id":"H0361","provider":"LCube","website":"lcube-webhosting.de","countries":["Germany"],"locations":"Germany","hosting_type":"Root vServer | Managed vServer | Cloud | Dedicated","starting_price":"€25.51/mo","price_note":"Root vServer from €25.51/mo incl. VAT own site; managed from €70.21/mo","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"German company, 'Made in Germany', since 1995; German datacenters","date_added":"2026-11-06","affiliate_url":null},{"id":"H0362","provider":"Hostung","website":"hostung.org","countries":["Germany"],"locations":"Germany","hosting_type":"KVM VPS | Dedicated","starting_price":"$3.19/mo","price_note":"VPS from $3.19/mo (Ryzen 9 7950X, own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"VPS & servers in Germany; HQ city not stated, country DE per own-site 'in Germany' — flag; 'minimal data collection' per own site","date_added":"2026-11-06","affiliate_url":null},{"id":"H0363","provider":"HostEurope","website":"hosteurope.de","countries":["Germany"],"locations":"Germany","hosting_type":"VPS","starting_price":"€8.99/mo","price_note":"From €8.99/mo (2-year term, own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0364","provider":"xaweho.de","website":"xaweho.de","countries":["Germany"],"locations":"Germany","hosting_type":"Plesk vServer","starting_price":"€22/mo","price_note":"From €22/mo (Solo, own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0365","provider":"centron.de","website":"centron.de","countries":["Germany"],"locations":"Germany","hosting_type":"Managed cloud server","starting_price":"€54.04/mo","price_note":"From €54.04/mo own site","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"centron GmbH, Hallstadt near Bamberg; own datacenter","date_added":"2026-11-06","affiliate_url":null},{"id":"H0366","provider":"CloudHosting.lv","website":"cloudhosting.lv","countries":["Latvia"],"locations":"Riga | Amsterdam","hosting_type":"VPS | Dedicated | Colocation","starting_price":"€9.35/mo","price_note":"VPS from €9.35/mo (12-mo term) / €11.00 month-to-month; dedicated from €130.05/mo","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"CloudHosting SIA, Riga; since 2016; own Riga datacenter; new dataset country (Latvia)","date_added":"2026-11-06","affiliate_url":null},{"id":"H0367","provider":"HostingKE","website":"hostingke.co.ke","countries":["Kenya"],"locations":"Kenya","hosting_type":"VPS","starting_price":"KES 2,000/mo","price_note":"From KES 2,000/mo own site","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"HQ city not stated — flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0368","provider":"ServeTheWorld","website":"stw.no","countries":["Norway"],"locations":"Oslo","hosting_type":"VPS | Dedicated | Colocation","starting_price":"79 NOK/mo","price_note":"VPS from 79 NOK/mo; dedicated from 1,525 NOK/mo; colocation from 590 NOK/mo (own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0369","provider":"Domainkeskus","website":"en.domainkeskus.com","countries":["Finland"],"locations":"Finland","hosting_type":"VPS","starting_price":"€13.55/mo","price_note":"'Starting at 13.55' headline vs VPS Start €28.55/mo shown (own site) — flag the two figures","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Euronic Oy","date_added":"2026-11-06","affiliate_url":null},{"id":"H0370","provider":"Domain Market","website":"domainmarket.gr","countries":["Greece"],"locations":"Greece","hosting_type":"Managed VServer","starting_price":"€96/mo","price_note":"From €96/mo (20% off €120, own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"New dataset country (Greece)","date_added":"2026-11-06","affiliate_url":null},{"id":"H0371","provider":"VCCLHosting","website":"vcclhosting.com","countries":["India"],"locations":"Kolhapur, India","hosting_type":"VPS | Dedicated","starting_price":"","price_note":"Starting price NOT established in this pass","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"VCCL Cloud Pvt Ltd, Kolhapur, Maharashtra; ISO-certified; own datacenter since 2016","date_added":"2026-11-06","affiliate_url":null},{"id":"H0372","provider":"Arct Cloud","website":"arct.cloud","countries":["United States"],"locations":"London | Frankfurt | Amsterdam | Salt Lake City (Utah) | Tokyo","hosting_type":"KVM VPS","starting_price":"$3.89/mo","price_note":"From $3.89/mo (cvm.pico, 1 vCPU/1GB/15GB NVMe, own site verified)","crypto":"BTC | ETH | USDT | USDC | SOL","kyc":"","dmca_stance":"","privacy_notes":"Arct Technology LLC, Wyoming-registered, per LET post; LET debut Oct 10, 2026 ('Meet Arct Cloud') — genuine recent debut","date_added":"2026-11-06","affiliate_url":null},{"id":"H0373","provider":"BGP Network","website":"bgp.sa","countries":["Saudi Arabia"],"locations":"Kansas City | Amsterdam | Frankfurt | Riyadh","hosting_type":"BGP VPS (KVM, BYOASN/BYOIP)","starting_price":"$9.99/mo","price_note":"BGP VPS Starter $9.99/mo (1 vCPU/2GB/20GB, 1 Gbps unmetered — LET thread Nov 5, 2026)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"BGP Network LLC; RESOLVES the long-held Kansas City BGP VPS $9.99/mo LET lead; country per ASN AS214329 registered country + .sa domain + Riyadh PoP; HQ not stated on own site — flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0374","provider":"AVA.Hosting","website":"ava.hosting","countries":["Moldova"],"locations":"Chișinău","hosting_type":"KVM VPS | Bare-metal dedicated | Shared","starting_price":"€5.00/mo","price_note":"VPS One €5.00/mo (own site); dedicated from €85.00/mo","crypto":"20+ coins incl. BTC, ETH, USDT, XMR","kyc":"","dmca_stance":"DMCA ignored (Moldovan jurisdiction; own DMCA page)","privacy_notes":"Operating since 2002, Chișinău; surfaced via LET 'VPS for torrenting' thread Oct 16, 2026 — older provider newly surfaced, not a Nov 2026 debut","date_added":"2026-11-06","affiliate_url":null},{"id":"H0375","provider":"Chunkserve","website":"chunkserve.com","countries":["Poland"],"locations":"Amsterdam (Qupra, Databarn, NorthC, Nikhef datacenters)","hosting_type":"VPS | Dedicated | Colocation","starting_price":"€1.30/mo","price_note":"VPS-RAM 1 €1.30/mo own site (1 vCPU/1GB/15GB NVMe); LET special €9.99/yr","crypto":"Accepted (own site + LET)","kyc":"","dmca_stance":"","privacy_notes":"Based in Poland per LET thread; own site says operates in Netherlands and Poland; LET thread Jul 5, 2025 — older provider newly surfaced","date_added":"2026-11-06","affiliate_url":null},{"id":"H0376","provider":"3VPC","website":"3vpc.com","countries":["Hong Kong"],"locations":"Hong Kong (Zone 1 / Zone 2 BGP)","hosting_type":"KVM VPS (NAT and public-IPv4 plans)","starting_price":"$2.66/mo","price_note":"$2.66/mo list; $1.60/mo Black Friday promo (first 3 cycles) for 1GB NAT plan, own site verified; LET posts quote $3.74/mo for the 2GB public-IPv4 plan — different tier, not a conflict","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Operating country Hong Kong; HQ not stated — flag; surfaced in LET offer replies Nov 5–6, 2026","date_added":"2026-11-06","affiliate_url":null},{"id":"H0377","provider":"Right Servers","website":"rightservers.com","countries":["Canada"],"locations":"Los Angeles | Miami | Ashburn VA | Manhattan NY | Ogden UT | Kitchener ON","hosting_type":"Unmanaged VPS | Managed VPS | Bare metal | Colocation","starting_price":"$3/mo","price_note":"Starter $3/mo (1 vCPU/1GB/20GB NVMe) — price is on 2-year billing per WHT thread, flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Right Servers Inc., Kitchener, ON; founded 2007; surfaced via WHT VPS Offers thread (last post Oct 2025) — older provider newly surfaced","date_added":"2026-11-06","affiliate_url":null},{"id":"H0378","provider":"SolidTools","website":"solidtools.com","countries":["United States"],"locations":"Silicon Valley | Missouri","hosting_type":"Dedicated servers (bare metal)","starting_price":"$36/mo","price_note":"$36/mo with 40%-off coupon (list $79/mo) for E3-1230V3/16GB/1TB HDD or 256GB SSD, unmetered 1 Gbps — WHT thread figure; own homepage shows no prices — flag","crypto":"USDT (WHT thread)","kyc":"","dmca_stance":"","privacy_notes":"Operating country US; HQ city/state not stated — flag; 'US customers only'; WHT member since 2008 — older provider newly surfaced","date_added":"2026-11-06","affiliate_url":null},{"id":"H0379","provider":"VirexNode","website":"virexnode.com","countries":["United Kingdom"],"locations":"Redditch","hosting_type":"Shared hosting (cPanel)","starting_price":"£2.50/mo","price_note":"£2.50/mo first month, then £5.00/mo (own site); LET code £2.50/mo recurring; LET debut Oct 8, 2026","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"VirexNode Ltd, England & Wales Co. 16431001, London registered office; shared hosting only — no VPS/dedicated line found","date_added":"2026-11-06","affiliate_url":null},{"id":"H0380","provider":"HostHatch","website":"hosthatch.com","countries":["United States"],"locations":"Tampa, FL (HQ); 13 locations","hosting_type":"VPS (KVM)","starting_price":"$4/mo","price_note":"Compute $4/mo; storage VPS $5/mo (1 TB) own homepage; location-count conflict 13 vs 14 vs 16 — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"HostHatch LLC, Tampa, FL; founded 2011; own AS63473","date_added":"2026-11-06","affiliate_url":null},{"id":"H0381","provider":"ServaRICA","website":"servarica.com","countries":["Canada"],"locations":"Montreal","hosting_type":"VPS (KVM) + dedicated","starting_price":"$5/mo","price_note":"Storage plan $5/mo / standard KVM $7/mo own homepage (CAD $6.75/$9.45)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Canadian-owned, since 2010, Montreal (350 Rue de Louvain O)","date_added":"2026-11-06","affiliate_url":null},{"id":"H0382","provider":"HostCram","website":"hostcram.com","countries":["United States"],"locations":"Buffalo, WY (LLC); Salt Lake City, UT (operations)","hosting_type":"VPS (KVM) + dedicated","starting_price":"~$5/mo","price_note":"VPS ~$5/mo, dedicated ~$85/mo — secondary source only (WHTop); cheap-vps.host lists $30/yr BF special, out of stock; own-site price not directly read (rate-limited) — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Wyoming LLC (Buffalo, WY); sold Sep 2026; new CEO Istiak Ahmed; LET announcement Oct 19, 2026","date_added":"2026-11-06","affiliate_url":null},{"id":"H0383","provider":"SpectraIP","website":"spectraip.net","countries":["Netherlands"],"locations":"Amsterdam","hosting_type":"KVM VPS + dedicated + colocation","starting_price":"€3.50/mo","price_note":"€3.50/mo own site; LEB debut Mar 11, 2020, older provider newly surfaced","crypto":"BTC per 2020 LEB post, not re-verified — flag","kyc":"","dmca_stance":"","privacy_notes":"SpectraIP B.V., Wormer","date_added":"2026-11-06","affiliate_url":null},{"id":"H0384","provider":"BigBoxHost","website":"bigboxhost.com","countries":["United States"],"locations":"Not stated","hosting_type":"KVM VPS + dedicated","starting_price":"$3.00/mo","price_note":"VPS $3.00/mo; dedicated $50.00/mo own homepage; resolves prior hold (no country found)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"BigBox Softwares LLC, Austin, TX","date_added":"2026-11-06","affiliate_url":null},{"id":"H0385","provider":"SystemInPlace","website":"systeminplace.net","countries":["United States"],"locations":"Fremont, CA (Hurricane Electric)","hosting_type":"VPS + dedicated + colocation","starting_price":"$109.99/mo","price_note":"Dedicated $109.99/mo WHT thread figure; own-site price not confirmed — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"SystemInPlace LLC, Sacramento, CA per own ToS; ToS prints zip \"94816\" (likely typo, transcribed as printed)","date_added":"2026-11-06","affiliate_url":null},{"id":"H0386","provider":"Axcelx","website":"axcelx.com","countries":["United States"],"locations":"Fremont, CA + Boston/Somerville, MA","hosting_type":"KVM VPS","starting_price":"$20/mo","price_note":"$20/mo own site","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Axcelx Technologies LLC, Somerville, MA","date_added":"2026-11-06","affiliate_url":null},{"id":"H0387","provider":"dataforest cloud","website":"cloud.dataforest.net","countries":["Germany"],"locations":"Frankfurt","hosting_type":"VPS + dedicated + cloud storage","starting_price":"€3.65/mo","price_note":"€3.65/mo incl. VAT own site","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Frankfurt DC; \"100% Made in Germany\"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0388","provider":"Antihost","website":"antihost.com","countries":["Romania"],"locations":"Brașov","hosting_type":"VPS + managed WordPress","starting_price":"$7.99/mo","price_note":"VPS $7.99/mo (Slashdot); WP $4.99/mo list own site; price conflicts: $2.99 (iTechGuides) vs £5.93 (HostAdvice) — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Founded 2026, Brașov","date_added":"2026-11-06","affiliate_url":null},{"id":"H0389","provider":"Unihost","website":"unihost.com","countries":["Bulgaria"],"locations":"Sofia","hosting_type":"VPS + dedicated + storage","starting_price":"€6/mo","price_note":"€6/mo (Slashdot) / €6.90 (VPSB trial)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Sofia HQ","date_added":"2026-11-06","affiliate_url":null},{"id":"H0390","provider":"Hexabyte","website":"hexabyte.se","countries":["Sweden"],"locations":"Umeå","hosting_type":"VPS/cloud + dedicated + S3","starting_price":"€3.87/mo","price_note":"€3.87/mo (VPSB, secondary — own homepage shows no pricing)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Umeå; own ISP since 2024","date_added":"2026-11-06","affiliate_url":null},{"id":"H0391","provider":"RackGenius","website":"rackgenius.com","countries":["United States"],"locations":"Michigan","hosting_type":"VPS + game hosting; dedicated offered","starting_price":"$6.25/mo","price_note":"$6.25/mo (VPSB trial); $4.00/mo sale figure conflicts — flag; resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Snakecraft Hosting LLC, Michigan; rebrand from Snakecraft 2025 — do NOT add Snakecraft separately","date_added":"2026-11-06","affiliate_url":null},{"id":"H0392","provider":"MoonQube","website":"moonqube.com","countries":["United States"],"locations":"Not stated","hosting_type":"VPS + storage + Kubernetes","starting_price":"$10.25/mo","price_note":"$10.25/mo (VPSB-tested plan, secondary; own-site price unverified — site did not load in text fetch); resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Founded 2023","date_added":"2026-11-06","affiliate_url":null},{"id":"H0393","provider":"Clouding.io","website":"clouding.io","countries":["Spain"],"locations":"Barcelona","hosting_type":"Cloud VPS only","starting_price":"€4.50/mo","price_note":"€4.50/mo (VPSB trial)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Barcelona HQ, founded 2014, Tier IV DC","date_added":"2026-11-06","affiliate_url":null},{"id":"H0394","provider":"Togglebox","website":"togglebox.com","countries":["United States"],"locations":"Dallas + Philadelphia","hosting_type":"VPS only","starting_price":"$10.74/mo","price_note":"$10.74/mo (VPSB trial)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Dallas + Philadelphia; cloud division of TekTonic, since 2003","date_added":"2026-11-06","affiliate_url":null},{"id":"H0395","provider":"dogado","website":"dogado.de","countries":["Germany"],"locations":"Dortmund","hosting_type":"Cloud servers + managed dedicated","starting_price":"€7.99/mo","price_note":"€7.99/mo (VPSB trial); HostAdvice $1.11 figures garbled — do not use","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Dortmund, founded 2006","date_added":"2026-11-06","affiliate_url":null},{"id":"H0396","provider":"MonoVM","website":"monovm.com","countries":["Lithuania"],"locations":"Vilnius; 25+ locations","hosting_type":"Linux/Windows VPS + RDP + Forex VPS","starting_price":"$6.00/mo","price_note":"$6.00/mo own site; resolves held lead","crypto":"BTC/BCH/LTC/BNB","kyc":"","dmca_stance":"","privacy_notes":"Vilnius; 25+ locations","date_added":"2026-11-06","affiliate_url":null},{"id":"H0397","provider":"servinga","website":"servinga.com","countries":["Germany"],"locations":"9 locations","hosting_type":"VPS only","starting_price":"€5/mo","price_note":"€5/mo own site; IPv6-only €3/mo; resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Founded 2014; 9 locations","date_added":"2026-11-06","affiliate_url":null},{"id":"H0398","provider":"Webyne","website":"webyne.com","countries":["India"],"locations":"Noida + Mumbai","hosting_type":"VPS + dedicated + GPU","starting_price":"₹329/mo","price_note":"₹329/mo own site, 1-yr billing — flag; Speed VPS ₹499/mo monthly; resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Noida + Mumbai Tier III DCs, founded 2012","date_added":"2026-11-06","affiliate_url":null},{"id":"H0399","provider":"Hostman","website":"hostman.com","countries":["Cyprus"],"locations":"Limassol; DCs DE/NL/US","hosting_type":"VPS/cloud + bare metal + Kubernetes","starting_price":"$5.00/mo","price_note":"$5.00/mo (VPSB trial); WHTop ~$7/mo conflicts — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"HOSTMAN LTD, Limassol; DCs DE/NL/US","date_added":"2026-11-06","affiliate_url":null},{"id":"H0400","provider":"my.host","website":"my.host","countries":["Netherlands"],"locations":"BE/DK/IE/NL","hosting_type":"VPS + WordPress + email","starting_price":"€12.50/mo","price_note":"€12.50/mo (VPSB trial)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Founded 2016; DCs BE/DK/IE/NL; NAME-COLLISION FLAG: MyHost.co.il, MyHost.KG, myhost.nz are different companies","date_added":"2026-11-06","affiliate_url":null},{"id":"H0401","provider":"Fasthosts","website":"fasthosts.co.uk","countries":["United Kingdom"],"locations":"Gloucester","hosting_type":"VPS + dedicated + web","starting_price":"£2.00/mo","price_note":"£2.00/mo intro (HostAdvice) vs £1.00/mo promo (Cybernews) vs £10.80 VPS 4 (VPSB) — conflicts, flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Gloucester HQ, founded 1999; IONOS/United Internet-owned since 2006 — affiliation unverified, flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0402","provider":"Servers.com","website":"servers.com","countries":["United States"],"locations":"Dallas","hosting_type":"Dedicated/bare metal + cloud + storage + colocation","starting_price":"$5.37/mo","price_note":"Cloud/VPS $5.37/mo (secondary); dedicated ~$104.90/mo","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Dallas HQ, founded 2014; same parent as Liquid Web (already in CSV) but distinct operating brand","date_added":"2026-11-06","affiliate_url":null},{"id":"H0403","provider":"VPS Mart","website":"vps-mart.com","countries":["United States"],"locations":"Dallas + Kansas City","hosting_type":"Windows/Linux/GPU VPS; dedicated $49/mo","starting_price":"$2.99/mo","price_note":"Linux VPS $2.99/mo own site; $2.52/mo promo figure conflicts — flag; founding-year conflict 2005 vs 2014 — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"DCs Dallas + Kansas City","date_added":"2026-11-06","affiliate_url":null},{"id":"H0404","provider":"ClawCloud","website":"claw.cloud","countries":["Singapore"],"locations":"Singapore","hosting_type":"Cloud VPS/VDS + game servers","starting_price":"$3.00/mo","price_note":"$3.00–$3.50/mo (secondary sources)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"HQ 10 Collyer Quay; founded 2024; LOW-TRUST SIGNAL: unverified \"SCAM\" allegation in HostDean reviews alongside positives — flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0405","provider":"Virtarix","website":"virtarix.com","countries":["United Arab Emirates"],"locations":"DE/ZA/US (DCs)","hosting_type":"VPS/VDS/dedicated/storage","starting_price":"$5.50/mo","price_note":"$5.50/mo (VPSB hoster page, last updated Nov 7, 2024 — stale, flag)","crypto":"Yes","kyc":"","dmca_stance":"","privacy_notes":"Founded 2023; crypto accepted; DCs DE/ZA/US","date_added":"2026-11-06","affiliate_url":null},{"id":"H0406","provider":"Veeble","website":"veeble.com","countries":["India"],"locations":"Kochi, Kerala; DCs US/UK/NL","hosting_type":"VPS (KVM/managed/Windows) + dedicated","starting_price":"₹295/mo","price_note":"₹295/mo 2-yr billing / ₹395/mo monthly (own site)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Kochi, Kerala, founded 2009; DCs US/UK/NL","date_added":"2026-11-06","affiliate_url":null},{"id":"H0407","provider":"Verpex","website":"verpex.com","countries":["United Kingdom"],"locations":"London","hosting_type":"VPS only (managed + unmanaged)","starting_price":"$10/mo","price_note":"$10/mo own site (12-mo intro, renews $19.99); HostAdvice $4.80/mo conflicts, own site wins; VPSB-tested plan £7.42/mo promo","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"London HQ, Verpex Ltd (Companies House 2019); Miami HQ claim in one secondary source — flag; World Host Group (same parent as FastComet, already in CSV), distinct brand","date_added":"2026-11-06","affiliate_url":null},{"id":"H0408","provider":"Linceris","website":"linceris.com","countries":["Morocco"],"locations":"Casablanca","hosting_type":"VPS + dedicated","starting_price":"€14.99/mo","price_note":"€14.99/mo list / €7.50/mo promo (ittellyou quoting own site/LET)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Casablanca SARL, registered Mar 2026; Frankfurt VPS (Interwerk DC); no IPv6","date_added":"2026-11-06","affiliate_url":null},{"id":"H0409","provider":"SprintCDN","website":"sprintcdn.com","countries":["Ukraine"],"locations":"Poland (DC)","hosting_type":"VPS + dedicated + DDoS + CDN","starting_price":"$10.00/mo","price_note":"$10.00/mo (VPSB trial)","crypto":"Yes","kyc":"","dmca_stance":"","privacy_notes":"Founded 2026; crypto accepted; DC Poland","date_added":"2026-11-06","affiliate_url":null},{"id":"H0410","provider":"ActivHosting","website":"activhosting.com","countries":["United Kingdom"],"locations":"US (DCs)","hosting_type":"VPS + VPN + monitoring","starting_price":"£30.00/mo","price_note":"VPSB-tested plan only £30.00/mo (May 2023 trial — stale); entry price unverified","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Founded 2022; DCs US only","date_added":"2026-11-06","affiliate_url":null},{"id":"H0411","provider":"Linkdata.com","website":"linkdata.com","countries":["United Kingdom"],"locations":"Iraq + UK (DCs)","hosting_type":"Domains + web + VPS","starting_price":"$60.00/mo","price_note":"VPSB-tested plan only $60.00/mo (May 2026 trial); entry price unverified","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Founded 2018; DCs Iraq + UK","date_added":"2026-11-06","affiliate_url":null},{"id":"H0412","provider":"X-ZoneServers","website":"x-zoneservers.com","countries":["Romania"],"locations":"Romania","hosting_type":"KVM VPS + bare metal","starting_price":"€4/mo","price_note":"VPS €4/mo (WHTop, secondary); bare metal €209/mo; website not directly read; resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"X ZONE IT SRL","date_added":"2026-11-06","affiliate_url":null},{"id":"H0413","provider":"CloudWave","website":"cloudwavebd.com","countries":["Bangladesh"],"locations":"Dhaka","hosting_type":"VPS (Linux/Windows RDP, hourly) + web","starting_price":"TK 599/mo","price_note":"TK 599/mo own site; Windows RDP $3.51/mo hourly; location-count conflict 70+ vs 95 — flag; resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Dhaka; NAME-COLLISION: US healthcare-cloud \"CloudWave\" is a different company","date_added":"2026-11-06","affiliate_url":null},{"id":"H0414","provider":"eVPS.net","website":"evps.net","countries":["Cyprus"],"locations":"Single EU location","hosting_type":"VPS only (KVM, unmanaged, NVMe)","starting_price":"€5.00/mo","price_note":"€5.00/mo own site; 4-core plan €19/mo own site vs €12/mo HostAdvice — flag, own site wins","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"HostAdvice Top 25 VPS 2026 award winner; single EU location","date_added":"2026-11-06","affiliate_url":null},{"id":"H0415","provider":"Safaricom","website":"safaricom.co.ke","countries":["Kenya"],"locations":"Nairobi","hosting_type":"Shared hosting only","starting_price":"","price_note":"Price not established — shared only; no VPS/dedicated line found on WHTop","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Kenya's largest telco; shared hosting only","date_added":"2026-11-06","affiliate_url":null},{"id":"H0416","provider":"HostPinnacle","website":"hostpinnacle.co.ke","countries":["Kenya"],"locations":"Kenya","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Shared KES 2,875/yr (WHTop); VPS from KSh 1,100/mo per search snippet; VPS/dedicated price not established on own site","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Nairobi-area host","date_added":"2026-11-06","affiliate_url":null},{"id":"H0417","provider":"Sino Soft","website":"sinosoft.guru","countries":["Kenya"],"locations":"Nairobi","hosting_type":"Shared/VPS/bare metal/GPU","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Nairobi HQ","date_added":"2026-11-06","affiliate_url":null},{"id":"H0418","provider":"Enet","website":"enet.co.ke","countries":["Kenya"],"locations":"Kenya","hosting_type":"Shared hosting only","starting_price":"","price_note":"Price not established — shared only","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0419","provider":"Webcom Kenya","website":"webcomkenya.com","countries":["Kenya"],"locations":"Kenya","hosting_type":"Shared/VPS/dedicated/cloud","starting_price":"","price_note":"Shared ~KES 3,000/yr (WHTop); WHTop notes inconsistent prices/specs — verify","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0420","provider":"Orawebhost","website":"orawebhost.com","countries":["Kenya"],"locations":"Kenya","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0421","provider":"Digital WebFrame","website":"digitalwebframe.com","countries":["Kenya"],"locations":"Nairobi","hosting_type":"Shared/managed VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Nairobi","date_added":"2026-11-06","affiliate_url":null},{"id":"H0422","provider":"ShujaaHost","website":"shujaahost.co.ke","countries":["Kenya"],"locations":"Juja","hosting_type":"Shared/reseller/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Juja","date_added":"2026-11-06","affiliate_url":null},{"id":"H0423","provider":"Hostrina","website":"hostrina.com","countries":["Kenya"],"locations":"Kenya","hosting_type":"Shared/reseller","starting_price":"","price_note":"Price not established; dedicated is placeholder \"\"Server 1\"\" Ksh 0.00 — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"","date_added":"2026-11-06","affiliate_url":null},{"id":"H0424","provider":"Natro","website":"natro.com","countries":["Turkey"],"locations":"Istanbul","hosting_type":"Shared/VPS/VDS/dedicated","starting_price":"","price_note":"VPS price conflicts $15 vs $30 vs $39.99/mo (WHTop) — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Çizgi Telekomünikasyon A.Ş., since 1999","date_added":"2026-11-06","affiliate_url":null},{"id":"H0425","provider":"Keyubu","website":"keyubu.com","countries":["Turkey"],"locations":"Adana","hosting_type":"Shared/VPS/VDS/dedicated/colocation","starting_price":"","price_note":"Price not firmly established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Adana","date_added":"2026-11-06","affiliate_url":null},{"id":"H0426","provider":"Atak Domain","website":"atakdomain.com","countries":["Turkey"],"locations":"Kartepe/Kocaeli","hosting_type":"Shared/VPS/VDS","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Kartepe/Kocaeli, since 2003","date_added":"2026-11-06","affiliate_url":null},{"id":"H0427","provider":"Turhost","website":"turhost.com","countries":["Turkey"],"locations":"Turkey","hosting_type":"Shared/VPS/VDS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Çizgi/team.blue since 2022","date_added":"2026-11-06","affiliate_url":null},{"id":"H0428","provider":"İsimtescil","website":"isimtescil.net","countries":["Turkey"],"locations":"Istanbul","hosting_type":"Shared/VPS/VDS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Istanbul, since 1998","date_added":"2026-11-06","affiliate_url":null},{"id":"H0429","provider":"Güzel Hosting","website":"guzel.net.tr","countries":["Turkey"],"locations":"Istanbul + Denizli","hosting_type":"Shared/VPS/VDS/dedicated/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Istanbul + Denizli","date_added":"2026-11-06","affiliate_url":null},{"id":"H0430","provider":"Turkticaret.Net","website":"turkticaret.net","countries":["Turkey"],"locations":"Istanbul","hosting_type":"Shared/cloud/GPU","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Istanbul, since 1999","date_added":"2026-11-06","affiliate_url":null},{"id":"H0431","provider":"Hosting Dünyam","website":"hostingdunyam.com.tr","countries":["Turkey"],"locations":"Istanbul","hosting_type":"Shared/VPS/VDS/cloud/dedicated/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Istanbul, since 2017","date_added":"2026-11-06","affiliate_url":null},{"id":"H0432","provider":"Hosthink","website":"hosthink.net","countries":["Turkey"],"locations":"Istanbul","hosting_type":"VPS/cloud/dedicated/GPU/colocation","starting_price":"$5/mo","price_note":"VPS from $5/mo (WHTop); dedicated in 71 locations","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Istanbul HQ; dedicated in 71 locations","date_added":"2026-11-06","affiliate_url":null},{"id":"H0433","provider":"Megahost","website":"megahost.kz","countries":["Kazakhstan"],"locations":"Astana/Almaty/Aktau","hosting_type":"Shared/VPS/cloud","starting_price":"3000 KZT/mo","price_note":"VPS from 3,000 KZT/mo (WHTop); conflicts 2,700 / 2,383 KZT — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Astana/Almaty/Aktau","date_added":"2026-11-06","affiliate_url":null},{"id":"H0434","provider":"PS.kz","website":"ps.kz","countries":["Kazakhstan"],"locations":"Almaty + Astana","hosting_type":"Shared/VPS/dedicated","starting_price":"$4.55/mo","price_note":"VPS KVM-1 $4.55/mo (HostAdvice); dedicated conflicts KZT 40,000 vs $150 vs $153.11 — flag; resolves held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"HQ verified Internet Company PS LLP, Almaty","date_added":"2026-11-06","affiliate_url":null},{"id":"H0435","provider":"SmartHost.kz","website":"smarthost.kz","countries":["Kazakhstan"],"locations":"Kazakhstan","hosting_type":"Shared hosting only","starting_price":"6000 KZT/yr","price_note":"6,000 KZT/yr (WHTop); VPS new orders suspended","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Shared only; VPS new orders suspended","date_added":"2026-11-06","affiliate_url":null},{"id":"H0436","provider":"Rumahweb","website":"rumahweb.com","countries":["Indonesia"],"locations":"Yogyakarta","hosting_type":"Shared/VPS/cloud/dedicated","starting_price":"Rp 25,000/mo","price_note":"Shared Rp 25,000/mo (WHTop)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Yogyakarta, since 2002","date_added":"2026-11-06","affiliate_url":null},{"id":"H0437","provider":"DomaiNesia","website":"domainesia.com","countries":["Indonesia"],"locations":"Yogyakarta","hosting_type":"Shared/cloud/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Yogyakarta, since 2009","date_added":"2026-11-06","affiliate_url":null},{"id":"H0438","provider":"IDCloudHost","website":"idcloudhost.com","countries":["Indonesia"],"locations":"Indonesia + Singapore","hosting_type":"Shared/cloud VPS/bare metal/dedicated/colocation","starting_price":"IDR 80,000","price_note":"CyberPanel VPS IDR 80,000 own site","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"ID + SG","date_added":"2026-11-06","affiliate_url":null},{"id":"H0439","provider":"IDwebhost","website":"idwebhost.com","countries":["Indonesia"],"locations":"Yogyakarta","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Price not established; dedicated is Vultr-based — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Yogyakarta, since 2004; dedicated is Vultr-based — flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0440","provider":"Biznet Gio","website":"biznetgio.com","countries":["Indonesia"],"locations":"Jakarta","hosting_type":"Shared/VPS/bare metal/GPU/K8s","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Jakarta, est. 2014","date_added":"2026-11-06","affiliate_url":null},{"id":"H0441","provider":"Exabytes Indonesia","website":"exabytes.co.id","countries":["Indonesia"],"locations":"Jakarta","hosting_type":"Shared/VPS/dedicated/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Jakarta; Exabytes Group MY","date_added":"2026-11-06","affiliate_url":null},{"id":"H0442","provider":"JagoanHosting","website":"jagoanhosting.com","countries":["Indonesia"],"locations":"Indonesia + Singapore","hosting_type":"Shared/cloud/VPS","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Malang, since 2007; ID + SG","date_added":"2026-11-06","affiliate_url":null},{"id":"H0443","provider":"Dewaweb","website":"dewaweb.com","countries":["Indonesia"],"locations":"Jakarta + Singapore/US","hosting_type":"Cloud/VPS/PaaS","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Jakarta + SG/US, since 2014","date_added":"2026-11-06","affiliate_url":null},{"id":"H0444","provider":"Citrahost","website":"citrahost.com","countries":["Indonesia"],"locations":"Yogyakarta + Solo","hosting_type":"Shared/VPS/dedicated/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Yogyakarta + Solo","date_added":"2026-11-06","affiliate_url":null},{"id":"H0445","provider":"JetOrbit","website":"jetorbit.com","countries":["Indonesia"],"locations":"Yogyakarta","hosting_type":"Shared/cloud VPS","starting_price":"Rp 59,000/mo","price_note":"Cloud VPS Rp 59,000/mo own site, excl. 11% VAT","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Yogyakarta","date_added":"2026-11-06","affiliate_url":null},{"id":"H0446","provider":"TrueFalseHosting.rs","website":"truefalsehosting.rs","countries":["Serbia"],"locations":"Belgrade","hosting_type":"Shared/dedicated","starting_price":"","price_note":"Price not established; dedicated hosted in DE","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Belgrade HQ, est. 2022; dedicated hosted in DE","date_added":"2026-11-06","affiliate_url":null},{"id":"H0447","provider":"Web Hosting Srbija","website":"webhostingsrbija.rs","countries":["Serbia"],"locations":"Niš","hosting_type":"Shared/VPS","starting_price":"","price_note":"Price not established; new VPS orders currently unavailable — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Niš, since 2019; new VPS orders currently unavailable — flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0448","provider":"Unlimited.rs","website":"unlimited.rs","countries":["Serbia"],"locations":"Belgrade + Meppel NL","hosting_type":"Shared hosting only","starting_price":"5490 RSD/yr","price_note":"Shared 5,490 RSD/yr (WHTop)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Belgrade + Meppel NL","date_added":"2026-11-06","affiliate_url":null},{"id":"H0449","provider":"Oblak.host","website":"oblak.host","countries":["Serbia"],"locations":"Belgrade","hosting_type":"Shared/WordPress/domains only","starting_price":"","price_note":"Price not established — shared/WordPress/domains only","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Belgrade","date_added":"2026-11-06","affiliate_url":null},{"id":"H0450","provider":"Mint.rs","website":"mint.rs","countries":["Serbia"],"locations":"Niš","hosting_type":"Shared/KVM VPS","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Niš, since 2009; Webglobe group since Apr 2024","date_added":"2026-11-06","affiliate_url":null},{"id":"H0451","provider":"SkyHosting","website":"skyhosting.rs","countries":["Serbia"],"locations":"Niš","hosting_type":"Shared/OpenVZ VPS","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Niš, since 2014","date_added":"2026-11-06","affiliate_url":null},{"id":"H0452","provider":"Hosting.cl","website":"hosting.cl","countries":["Chile"],"locations":"Santiago","hosting_type":"Shared/VPS/dedicated/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Santiago, since 1999; same-group flag vs Hosting.pe — separate country operation","date_added":"2026-11-06","affiliate_url":null},{"id":"H0453","provider":"Hostingnet","website":"hostingnet.cl","countries":["Chile"],"locations":"Santiago","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Santiago, own DC","date_added":"2026-11-06","affiliate_url":null},{"id":"H0454","provider":"Creattiva","website":"creattiva.cl","countries":["Chile"],"locations":"Chile","hosting_type":"Shared/VPS/dedicated/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Chile, since 1999","date_added":"2026-11-06","affiliate_url":null},{"id":"H0455","provider":"ihosting","website":"ihosting.cl","countries":["Chile"],"locations":"Viña del Mar + Santiago","hosting_type":"Shared/VPS/colocation","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Viña del Mar + Santiago, since 2002; co-founder also linked to HostingPlus — shared-founder flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0456","provider":"cPanelHost","website":"cpanelhost.cl","countries":["Chile"],"locations":"Las Condes, Santiago","hosting_type":"Shared hosting only","starting_price":"","price_note":"Price not established — shared only; thin verification — page tail unread","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Las Condes, Santiago, est. 2012; thin verification — page tail unread","date_added":"2026-11-06","affiliate_url":null},{"id":"H0457","provider":"Dongee","website":"dongee.com","countries":["Colombia"],"locations":"Bogotá","hosting_type":"Shared/cloud VPS/dedicated cloud","starting_price":"$15/mo","price_note":"AMD Cloud VPS $15/mo (WHTop)","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Bogotá","date_added":"2026-11-06","affiliate_url":null},{"id":"H0458","provider":"ColombiaHosting","website":"colombiahosting.com.co","countries":["Colombia"],"locations":"Cali","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Cali, since 2006","date_added":"2026-11-06","affiliate_url":null},{"id":"H0459","provider":"ClickPanda","website":"clickpanda.com","countries":["Colombia"],"locations":"Bogotá","hosting_type":"Shared/KVM VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Bogotá, since 2015","date_added":"2026-11-06","affiliate_url":null},{"id":"H0460","provider":"Latinoamérica Hosting","website":"latinoamericahosting.com","countries":["Colombia"],"locations":"Medellín","hosting_type":"Shared/VPS/reseller","starting_price":"$1.55/mo","price_note":"Shared $1.55/mo secondary, unverified","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Medellín, since 2007","date_added":"2026-11-06","affiliate_url":null},{"id":"H0461","provider":"MI.COM.CO","website":"mi.com.co","countries":["Colombia"],"locations":"Bogotá","hosting_type":"Hybrid shared hosting","starting_price":"","price_note":"Price not established; no VPS/dedicated in WHTop text","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Bogotá, since 2009","date_added":"2026-11-06","affiliate_url":null},{"id":"H0462","provider":"Imagina Colombia","website":"imaginacolombia.com","countries":["Colombia"],"locations":"Bogotá + Ibagué","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Bogotá + Ibagué, since 2004","date_added":"2026-11-06","affiliate_url":null},{"id":"H0463","provider":"Hosting Perú","website":"hostingperu.com.pe","countries":["Peru"],"locations":"Lima","hosting_type":"Shared/VPS/dedicated/cloud","starting_price":"S/6.90/mo","price_note":"Shared S/6.90/mo, VPS US$14.90/mo, dedicated ~US$859/qtr (WHTop); resolves Nov 5 Slot D held lead","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"INTERMEDIAHOST S.A.C.; distinct company from hosting-peru.pe — do not conflate","date_added":"2026-11-06","affiliate_url":null},{"id":"H0464","provider":"Yachay","website":"yachay.lat","countries":["Peru"],"locations":"Peru","hosting_type":"Shared/Hosting Pro; VPS + dedicated quote-based","starting_price":"","price_note":"Price not established — VPS/dedicated quote-based","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Peru, since 2008","date_added":"2026-11-06","affiliate_url":null},{"id":"H0465","provider":"WPeru","website":"wperu.com","countries":["Peru"],"locations":"Chiclayo","hosting_type":"Shared/VPS/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Chiclayo, since 2004","date_added":"2026-11-06","affiliate_url":null},{"id":"H0466","provider":"Hosting Peru","website":"hosting-peru.pe","countries":["Peru"],"locations":"Lima","hosting_type":"Shared/VPS cloud/dedicated","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Lima, since 2009; Cosas Peruanas S.R.L. — distinct from hostingperu.com.pe, do not conflate","date_added":"2026-11-06","affiliate_url":null},{"id":"H0467","provider":"InkaWebDesign","website":"inkawebdesign.com","countries":["Peru"],"locations":"Lima","hosting_type":"Shared/managed VPS/dedicated","starting_price":"","price_note":"Price not established; dedicated configs cite obsolete hardware — flag","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Lima; dedicated configs cite obsolete hardware — flag","date_added":"2026-11-06","affiliate_url":null},{"id":"H0468","provider":"HostingWeb","website":"hostingweb.pe","countries":["Peru"],"locations":"Peru","hosting_type":"Shared/KVM VPS/reseller","starting_price":"","price_note":"Price not established","crypto":"","kyc":"","dmca_stance":"","privacy_notes":"Peru, since 2013; also HWPerú brand","date_added":"2026-11-06","affiliate_url":null}]
+[
+ {
+  "id": "H0352",
+  "provider": "Funio",
+  "website": "funio.com",
+  "countries": [
+   "Canada"
+  ],
+  "locations": "Montreal, QC (3 datacenters)",
+  "hosting_type": "Managed VPS",
+  "starting_price": "$4.99/mo",
+  "price_note": "From ~$34.10/mo promo (WHTop) vs HostAdvice VPS XS $4.99/mo and 2 GB $39.95/mo — conflict, flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Verdun, Quebec; since 1999; brand under Miss Group; no dedicated line",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0353",
+  "provider": "Alastyr",
+  "website": "alastyr.com",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Turkey",
+  "hosting_type": "VPS | VDS | Dedicated | Colocation",
+  "starting_price": "$2.79/mo",
+  "price_note": "VPS from $2.79/mo (WHTop VPS S, 2020 listing) vs Cosmic VPS 1 $11.00/mo (Oct 3, 2026) vs $6.99/mo ex VAT — conflict, flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "İzmir; founded 2002; own datacenter in Bornova, İzmir",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0354",
+  "provider": "ADW.es",
+  "website": "adw.es",
+  "countries": [
+   "Spain"
+  ],
+  "locations": "Madrid | Zamudio",
+  "hosting_type": "VPS | Dedicated",
+  "starting_price": "€14.16/mo",
+  "price_note": "VPS XS from €14.16/mo (annual contract, WHTop) vs €11.21/mo ex VAT figure also shown — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "ADW Europe SL, Abadiño/Bizkaia; since 1996; own datacenters Madrid + Zamudio",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0355",
+  "provider": "iv.lt",
+  "website": "iv.lt",
+  "countries": [
+   "Lithuania"
+  ],
+  "locations": "Vilnius",
+  "hosting_type": "VPS",
+  "starting_price": "",
+  "price_note": "Starting price NOT established in this pass (own VPS page confirms Linux/Windows/container plans, Vilnius location; plan prices did not surface)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Interneto vizija, Vilnius, J. Kubiliaus st. 6",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0356",
+  "provider": "sered.net",
+  "website": "sered.net",
+  "countries": [
+   "Spain"
+  ],
+  "locations": "Madrid | Barcelona | Montreal",
+  "hosting_type": "VPS | Cloud | Dedicated",
+  "starting_price": "$22.36/mo",
+  "price_note": "VPS from $22.36/mo (HostAdvice); dedicated $145.74–$233.18/mo",
+  "crypto": "BTC (GoogieHost)",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "SOLUCIONES WEB ON LINE S.L.U., Galicia; since 2009; part of Miss Group; Chile/Brazil locations per GoogieHost",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0357",
+  "provider": "StableHost",
+  "website": "stablehost.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "United States",
+  "hosting_type": "VPS | Dedicated",
+  "starting_price": "$9.12/mo",
+  "price_note": "VPS from $9.12/mo vs $10.95/mo vs $11.49/mo (secondary sources conflict — flag); dedicated $145–$245/mo",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Scottsdale, Arizona; founded 2009; now part of Miss Group",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0358",
+  "provider": "Asushost",
+  "website": "asushost.co.ke",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "VPS | Dedicated",
+  "starting_price": "",
+  "price_note": "Starting VPS price NOT established (VPS/dedicated by tailored quote; overall price range KSh 215–28,700/mo covers all products)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Asushost Limited, Westlands, Nairobi + Thika; founded 2016; 100% Kenyan-owned",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0359",
+  "provider": "cdmon",
+  "website": "cdmon.com",
+  "countries": [
+   "Spain"
+  ],
+  "locations": "Spain",
+  "hosting_type": "Managed VPS | Dedicated",
+  "starting_price": "€89.95/mo",
+  "price_note": "Managed VPS from €89.95/mo total (€29.00 hardware + €60.95 admin, ex VAT, own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "10dencehispahard SLU, Malgrat de Mar near Barcelona; since 2002",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0360",
+  "provider": "SERVA",
+  "website": "serva.one",
+  "countries": [
+   "United Kingdom"
+  ],
+  "locations": "Netherlands | Germany | Poland | Latvia | Switzerland | United States | Italy | Romania | Bulgaria",
+  "hosting_type": "KVM VPS",
+  "starting_price": "€4.99/mo",
+  "price_note": "From €4.99/mo (Micro, own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "SERVA ONE LTD, registered in England",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0361",
+  "provider": "LCube",
+  "website": "lcube-webhosting.de",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Germany",
+  "hosting_type": "Root vServer | Managed vServer | Cloud | Dedicated",
+  "starting_price": "€25.51/mo",
+  "price_note": "Root vServer from €25.51/mo incl. VAT own site; managed from €70.21/mo",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "German company, 'Made in Germany', since 1995; German datacenters",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0362",
+  "provider": "Hostung",
+  "website": "hostung.org",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Germany",
+  "hosting_type": "KVM VPS | Dedicated",
+  "starting_price": "$3.19/mo",
+  "price_note": "VPS from $3.19/mo (Ryzen 9 7950X, own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "VPS & servers in Germany; HQ city not stated, country DE per own-site 'in Germany' — flag; 'minimal data collection' per own site",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0363",
+  "provider": "HostEurope",
+  "website": "hosteurope.de",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Germany",
+  "hosting_type": "VPS",
+  "starting_price": "€8.99/mo",
+  "price_note": "From €8.99/mo (2-year term, own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0364",
+  "provider": "xaweho.de",
+  "website": "xaweho.de",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Germany",
+  "hosting_type": "Plesk vServer",
+  "starting_price": "€22/mo",
+  "price_note": "From €22/mo (Solo, own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0365",
+  "provider": "centron.de",
+  "website": "centron.de",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Germany",
+  "hosting_type": "Managed cloud server",
+  "starting_price": "€54.04/mo",
+  "price_note": "From €54.04/mo own site",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "centron GmbH, Hallstadt near Bamberg; own datacenter",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0366",
+  "provider": "CloudHosting.lv",
+  "website": "cloudhosting.lv",
+  "countries": [
+   "Latvia"
+  ],
+  "locations": "Riga | Amsterdam",
+  "hosting_type": "VPS | Dedicated | Colocation",
+  "starting_price": "€9.35/mo",
+  "price_note": "VPS from €9.35/mo (12-mo term) / €11.00 month-to-month; dedicated from €130.05/mo",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "CloudHosting SIA, Riga; since 2016; own Riga datacenter; new dataset country (Latvia)",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0367",
+  "provider": "HostingKE",
+  "website": "hostingke.co.ke",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "VPS",
+  "starting_price": "KES 2,000/mo",
+  "price_note": "From KES 2,000/mo own site",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "HQ city not stated — flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0368",
+  "provider": "ServeTheWorld",
+  "website": "stw.no",
+  "countries": [
+   "Norway"
+  ],
+  "locations": "Oslo",
+  "hosting_type": "VPS | Dedicated | Colocation",
+  "starting_price": "79 NOK/mo",
+  "price_note": "VPS from 79 NOK/mo; dedicated from 1,525 NOK/mo; colocation from 590 NOK/mo (own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0369",
+  "provider": "Domainkeskus",
+  "website": "en.domainkeskus.com",
+  "countries": [
+   "Finland"
+  ],
+  "locations": "Finland",
+  "hosting_type": "VPS",
+  "starting_price": "€13.55/mo",
+  "price_note": "'Starting at 13.55' headline vs VPS Start €28.55/mo shown (own site) — flag the two figures",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Euronic Oy",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0370",
+  "provider": "Domain Market",
+  "website": "domainmarket.gr",
+  "countries": [
+   "Greece"
+  ],
+  "locations": "Greece",
+  "hosting_type": "Managed VServer",
+  "starting_price": "€96/mo",
+  "price_note": "From €96/mo (20% off €120, own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "New dataset country (Greece)",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0371",
+  "provider": "VCCLHosting",
+  "website": "vcclhosting.com",
+  "countries": [
+   "India"
+  ],
+  "locations": "Kolhapur, India",
+  "hosting_type": "VPS | Dedicated",
+  "starting_price": "",
+  "price_note": "Starting price NOT established in this pass",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "VCCL Cloud Pvt Ltd, Kolhapur, Maharashtra; ISO-certified; own datacenter since 2016",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0372",
+  "provider": "Arct Cloud",
+  "website": "arct.cloud",
+  "countries": [
+   "United States"
+  ],
+  "locations": "London | Frankfurt | Amsterdam | Salt Lake City (Utah) | Tokyo",
+  "hosting_type": "KVM VPS",
+  "starting_price": "$3.89/mo",
+  "price_note": "From $3.89/mo (cvm.pico, 1 vCPU/1GB/15GB NVMe, own site verified)",
+  "crypto": "BTC | ETH | USDT | USDC | SOL",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Arct Technology LLC, Wyoming-registered, per LET post; LET debut Oct 10, 2026 ('Meet Arct Cloud') — genuine recent debut",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0373",
+  "provider": "BGP Network",
+  "website": "bgp.sa",
+  "countries": [
+   "Saudi Arabia"
+  ],
+  "locations": "Kansas City | Amsterdam | Frankfurt | Riyadh",
+  "hosting_type": "BGP VPS (KVM, BYOASN/BYOIP)",
+  "starting_price": "$9.99/mo",
+  "price_note": "BGP VPS Starter $9.99/mo (1 vCPU/2GB/20GB, 1 Gbps unmetered — LET thread Nov 5, 2026)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "BGP Network LLC; RESOLVES the long-held Kansas City BGP VPS $9.99/mo LET lead; country per ASN AS214329 registered country + .sa domain + Riyadh PoP; HQ not stated on own site — flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0374",
+  "provider": "AVA.Hosting",
+  "website": "ava.hosting",
+  "countries": [
+   "Moldova"
+  ],
+  "locations": "Chișinău",
+  "hosting_type": "KVM VPS | Bare-metal dedicated | Shared",
+  "starting_price": "€5.00/mo",
+  "price_note": "VPS One €5.00/mo (own site); dedicated from €85.00/mo",
+  "crypto": "20+ coins incl. BTC, ETH, USDT, XMR",
+  "kyc": "",
+  "dmca_stance": "DMCA ignored (Moldovan jurisdiction; own DMCA page)",
+  "privacy_notes": "Operating since 2002, Chișinău; surfaced via LET 'VPS for torrenting' thread Oct 16, 2026 — older provider newly surfaced, not a Nov 2026 debut",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0375",
+  "provider": "Chunkserve",
+  "website": "chunkserve.com",
+  "countries": [
+   "Poland"
+  ],
+  "locations": "Amsterdam (Qupra, Databarn, NorthC, Nikhef datacenters)",
+  "hosting_type": "VPS | Dedicated | Colocation",
+  "starting_price": "€1.30/mo",
+  "price_note": "VPS-RAM 1 €1.30/mo own site (1 vCPU/1GB/15GB NVMe); LET special €9.99/yr",
+  "crypto": "Accepted (own site + LET)",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Based in Poland per LET thread; own site says operates in Netherlands and Poland; LET thread Jul 5, 2025 — older provider newly surfaced",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0376",
+  "provider": "3VPC",
+  "website": "3vpc.com",
+  "countries": [
+   "Hong Kong"
+  ],
+  "locations": "Hong Kong (Zone 1 / Zone 2 BGP)",
+  "hosting_type": "KVM VPS (NAT and public-IPv4 plans)",
+  "starting_price": "$2.66/mo",
+  "price_note": "$2.66/mo list; $1.60/mo Black Friday promo (first 3 cycles) for 1GB NAT plan, own site verified; LET posts quote $3.74/mo for the 2GB public-IPv4 plan — different tier, not a conflict",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Operating country Hong Kong; HQ not stated — flag; surfaced in LET offer replies Nov 5–6, 2026",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0377",
+  "provider": "Right Servers",
+  "website": "rightservers.com",
+  "countries": [
+   "Canada"
+  ],
+  "locations": "Los Angeles | Miami | Ashburn VA | Manhattan NY | Ogden UT | Kitchener ON",
+  "hosting_type": "Unmanaged VPS | Managed VPS | Bare metal | Colocation",
+  "starting_price": "$3/mo",
+  "price_note": "Starter $3/mo (1 vCPU/1GB/20GB NVMe) — price is on 2-year billing per WHT thread, flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Right Servers Inc., Kitchener, ON; founded 2007; surfaced via WHT VPS Offers thread (last post Oct 2025) — older provider newly surfaced",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0378",
+  "provider": "SolidTools",
+  "website": "solidtools.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Silicon Valley | Missouri",
+  "hosting_type": "Dedicated servers (bare metal)",
+  "starting_price": "$36/mo",
+  "price_note": "$36/mo with 40%-off coupon (list $79/mo) for E3-1230V3/16GB/1TB HDD or 256GB SSD, unmetered 1 Gbps — WHT thread figure; own homepage shows no prices — flag",
+  "crypto": "USDT (WHT thread)",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Operating country US; HQ city/state not stated — flag; 'US customers only'; WHT member since 2008 — older provider newly surfaced",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0379",
+  "provider": "VirexNode",
+  "website": "virexnode.com",
+  "countries": [
+   "United Kingdom"
+  ],
+  "locations": "Redditch",
+  "hosting_type": "Shared hosting (cPanel)",
+  "starting_price": "£2.50/mo",
+  "price_note": "£2.50/mo first month, then £5.00/mo (own site); LET code £2.50/mo recurring; LET debut Oct 8, 2026",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "VirexNode Ltd, England & Wales Co. 16431001, London registered office; shared hosting only — no VPS/dedicated line found",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0380",
+  "provider": "HostHatch",
+  "website": "hosthatch.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Tampa, FL (HQ); 13 locations",
+  "hosting_type": "VPS (KVM)",
+  "starting_price": "$4/mo",
+  "price_note": "Compute $4/mo; storage VPS $5/mo (1 TB) own homepage; location-count conflict 13 vs 14 vs 16 — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "HostHatch LLC, Tampa, FL; founded 2011; own AS63473",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0381",
+  "provider": "ServaRICA",
+  "website": "servarica.com",
+  "countries": [
+   "Canada"
+  ],
+  "locations": "Montreal",
+  "hosting_type": "VPS (KVM) + dedicated",
+  "starting_price": "$5/mo",
+  "price_note": "Storage plan $5/mo / standard KVM $7/mo own homepage (CAD $6.75/$9.45)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Canadian-owned, since 2010, Montreal (350 Rue de Louvain O)",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0382",
+  "provider": "HostCram",
+  "website": "hostcram.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Buffalo, WY (LLC); Salt Lake City, UT (operations)",
+  "hosting_type": "VPS (KVM) + dedicated",
+  "starting_price": "~$5/mo",
+  "price_note": "VPS ~$5/mo, dedicated ~$85/mo — secondary source only (WHTop); cheap-vps.host lists $30/yr BF special, out of stock; own-site price not directly read (rate-limited) — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Wyoming LLC (Buffalo, WY); sold Sep 2026; new CEO Istiak Ahmed; LET announcement Oct 19, 2026",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0383",
+  "provider": "SpectraIP",
+  "website": "spectraip.net",
+  "countries": [
+   "Netherlands"
+  ],
+  "locations": "Amsterdam",
+  "hosting_type": "KVM VPS + dedicated + colocation",
+  "starting_price": "€3.50/mo",
+  "price_note": "€3.50/mo own site; LEB debut Mar 11, 2020, older provider newly surfaced",
+  "crypto": "BTC per 2020 LEB post, not re-verified — flag",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "SpectraIP B.V., Wormer",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0384",
+  "provider": "BigBoxHost",
+  "website": "bigboxhost.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Not stated",
+  "hosting_type": "KVM VPS + dedicated",
+  "starting_price": "$3.00/mo",
+  "price_note": "VPS $3.00/mo; dedicated $50.00/mo own homepage; resolves prior hold (no country found)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "BigBox Softwares LLC, Austin, TX",
+  "date_added": "2026-11-06",
+  "affiliate_url": "https://bigboxhost.com/portal/aff.php?aff=133"
+ },
+ {
+  "id": "H0385",
+  "provider": "SystemInPlace",
+  "website": "systeminplace.net",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Fremont, CA (Hurricane Electric)",
+  "hosting_type": "VPS + dedicated + colocation",
+  "starting_price": "$109.99/mo",
+  "price_note": "Dedicated $109.99/mo WHT thread figure; own-site price not confirmed — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "SystemInPlace LLC, Sacramento, CA per own ToS; ToS prints zip \"94816\" (likely typo, transcribed as printed)",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0386",
+  "provider": "Axcelx",
+  "website": "axcelx.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Fremont, CA + Boston/Somerville, MA",
+  "hosting_type": "KVM VPS",
+  "starting_price": "$20/mo",
+  "price_note": "$20/mo own site",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Axcelx Technologies LLC, Somerville, MA",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0387",
+  "provider": "dataforest cloud",
+  "website": "cloud.dataforest.net",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Frankfurt",
+  "hosting_type": "VPS + dedicated + cloud storage",
+  "starting_price": "€3.65/mo",
+  "price_note": "€3.65/mo incl. VAT own site",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Frankfurt DC; \"100% Made in Germany\"",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0388",
+  "provider": "Antihost",
+  "website": "antihost.com",
+  "countries": [
+   "Romania"
+  ],
+  "locations": "Brașov",
+  "hosting_type": "VPS + managed WordPress",
+  "starting_price": "$7.99/mo",
+  "price_note": "VPS $7.99/mo (Slashdot); WP $4.99/mo list own site; price conflicts: $2.99 (iTechGuides) vs £5.93 (HostAdvice) — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2026, Brașov",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0389",
+  "provider": "Unihost",
+  "website": "unihost.com",
+  "countries": [
+   "Bulgaria"
+  ],
+  "locations": "Sofia",
+  "hosting_type": "VPS + dedicated + storage",
+  "starting_price": "€6/mo",
+  "price_note": "€6/mo (Slashdot) / €6.90 (VPSB trial)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Sofia HQ",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0390",
+  "provider": "Hexabyte",
+  "website": "hexabyte.se",
+  "countries": [
+   "Sweden"
+  ],
+  "locations": "Umeå",
+  "hosting_type": "VPS/cloud + dedicated + S3",
+  "starting_price": "€3.87/mo",
+  "price_note": "€3.87/mo (VPSB, secondary — own homepage shows no pricing)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Umeå; own ISP since 2024",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0391",
+  "provider": "RackGenius",
+  "website": "rackgenius.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Michigan",
+  "hosting_type": "VPS + game hosting; dedicated offered",
+  "starting_price": "$6.25/mo",
+  "price_note": "$6.25/mo (VPSB trial); $4.00/mo sale figure conflicts — flag; resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Snakecraft Hosting LLC, Michigan; rebrand from Snakecraft 2025 — do NOT add Snakecraft separately",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0392",
+  "provider": "MoonQube",
+  "website": "moonqube.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Not stated",
+  "hosting_type": "VPS + storage + Kubernetes",
+  "starting_price": "$10.25/mo",
+  "price_note": "$10.25/mo (VPSB-tested plan, secondary; own-site price unverified — site did not load in text fetch); resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2023",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0393",
+  "provider": "Clouding.io",
+  "website": "clouding.io",
+  "countries": [
+   "Spain"
+  ],
+  "locations": "Barcelona",
+  "hosting_type": "Cloud VPS only",
+  "starting_price": "€4.50/mo",
+  "price_note": "€4.50/mo (VPSB trial)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Barcelona HQ, founded 2014, Tier IV DC",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0394",
+  "provider": "Togglebox",
+  "website": "togglebox.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Dallas + Philadelphia",
+  "hosting_type": "VPS only",
+  "starting_price": "$10.74/mo",
+  "price_note": "$10.74/mo (VPSB trial)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Dallas + Philadelphia; cloud division of TekTonic, since 2003",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0395",
+  "provider": "dogado",
+  "website": "dogado.de",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "Dortmund",
+  "hosting_type": "Cloud servers + managed dedicated",
+  "starting_price": "€7.99/mo",
+  "price_note": "€7.99/mo (VPSB trial); HostAdvice $1.11 figures garbled — do not use",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Dortmund, founded 2006",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0396",
+  "provider": "MonoVM",
+  "website": "monovm.com",
+  "countries": [
+   "Lithuania"
+  ],
+  "locations": "Vilnius; 25+ locations",
+  "hosting_type": "Linux/Windows VPS + RDP + Forex VPS",
+  "starting_price": "$6.00/mo",
+  "price_note": "$6.00/mo own site; resolves held lead",
+  "crypto": "BTC/BCH/LTC/BNB",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Vilnius; 25+ locations",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0397",
+  "provider": "servinga",
+  "website": "servinga.com",
+  "countries": [
+   "Germany"
+  ],
+  "locations": "9 locations",
+  "hosting_type": "VPS only",
+  "starting_price": "€5/mo",
+  "price_note": "€5/mo own site; IPv6-only €3/mo; resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2014; 9 locations",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0398",
+  "provider": "Webyne",
+  "website": "webyne.com",
+  "countries": [
+   "India"
+  ],
+  "locations": "Noida + Mumbai",
+  "hosting_type": "VPS + dedicated + GPU",
+  "starting_price": "₹329/mo",
+  "price_note": "₹329/mo own site, 1-yr billing — flag; Speed VPS ₹499/mo monthly; resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Noida + Mumbai Tier III DCs, founded 2012",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0399",
+  "provider": "Hostman",
+  "website": "hostman.com",
+  "countries": [
+   "Cyprus"
+  ],
+  "locations": "Limassol; DCs DE/NL/US",
+  "hosting_type": "VPS/cloud + bare metal + Kubernetes",
+  "starting_price": "$5.00/mo",
+  "price_note": "$5.00/mo (VPSB trial); WHTop ~$7/mo conflicts — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "HOSTMAN LTD, Limassol; DCs DE/NL/US",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0400",
+  "provider": "my.host",
+  "website": "my.host",
+  "countries": [
+   "Netherlands"
+  ],
+  "locations": "BE/DK/IE/NL",
+  "hosting_type": "VPS + WordPress + email",
+  "starting_price": "€12.50/mo",
+  "price_note": "€12.50/mo (VPSB trial)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2016; DCs BE/DK/IE/NL; NAME-COLLISION FLAG: MyHost.co.il, MyHost.KG, myhost.nz are different companies",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0401",
+  "provider": "Fasthosts",
+  "website": "fasthosts.co.uk",
+  "countries": [
+   "United Kingdom"
+  ],
+  "locations": "Gloucester",
+  "hosting_type": "VPS + dedicated + web",
+  "starting_price": "£2.00/mo",
+  "price_note": "£2.00/mo intro (HostAdvice) vs £1.00/mo promo (Cybernews) vs £10.80 VPS 4 (VPSB) — conflicts, flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Gloucester HQ, founded 1999; IONOS/United Internet-owned since 2006 — affiliation unverified, flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0402",
+  "provider": "Servers.com",
+  "website": "servers.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Dallas",
+  "hosting_type": "Dedicated/bare metal + cloud + storage + colocation",
+  "starting_price": "$5.37/mo",
+  "price_note": "Cloud/VPS $5.37/mo (secondary); dedicated ~$104.90/mo",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Dallas HQ, founded 2014; same parent as Liquid Web (already in CSV) but distinct operating brand",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0403",
+  "provider": "VPS Mart",
+  "website": "vps-mart.com",
+  "countries": [
+   "United States"
+  ],
+  "locations": "Dallas + Kansas City",
+  "hosting_type": "Windows/Linux/GPU VPS; dedicated $49/mo",
+  "starting_price": "$2.99/mo",
+  "price_note": "Linux VPS $2.99/mo own site; $2.52/mo promo figure conflicts — flag; founding-year conflict 2005 vs 2014 — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "DCs Dallas + Kansas City",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0404",
+  "provider": "ClawCloud",
+  "website": "claw.cloud",
+  "countries": [
+   "Singapore"
+  ],
+  "locations": "Singapore",
+  "hosting_type": "Cloud VPS/VDS + game servers",
+  "starting_price": "$3.00/mo",
+  "price_note": "$3.00–$3.50/mo (secondary sources)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "HQ 10 Collyer Quay; founded 2024; LOW-TRUST SIGNAL: unverified \"SCAM\" allegation in HostDean reviews alongside positives — flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0405",
+  "provider": "Virtarix",
+  "website": "virtarix.com",
+  "countries": [
+   "United Arab Emirates"
+  ],
+  "locations": "DE/ZA/US (DCs)",
+  "hosting_type": "VPS/VDS/dedicated/storage",
+  "starting_price": "$5.50/mo",
+  "price_note": "$5.50/mo (VPSB hoster page, last updated Nov 7, 2024 — stale, flag)",
+  "crypto": "Yes",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2023; crypto accepted; DCs DE/ZA/US",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0406",
+  "provider": "Veeble",
+  "website": "veeble.com",
+  "countries": [
+   "India"
+  ],
+  "locations": "Kochi, Kerala; DCs US/UK/NL",
+  "hosting_type": "VPS (KVM/managed/Windows) + dedicated",
+  "starting_price": "₹295/mo",
+  "price_note": "₹295/mo 2-yr billing / ₹395/mo monthly (own site)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Kochi, Kerala, founded 2009; DCs US/UK/NL",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0407",
+  "provider": "Verpex",
+  "website": "verpex.com",
+  "countries": [
+   "United Kingdom"
+  ],
+  "locations": "London",
+  "hosting_type": "VPS only (managed + unmanaged)",
+  "starting_price": "$10/mo",
+  "price_note": "$10/mo own site (12-mo intro, renews $19.99); HostAdvice $4.80/mo conflicts, own site wins; VPSB-tested plan £7.42/mo promo",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "London HQ, Verpex Ltd (Companies House 2019); Miami HQ claim in one secondary source — flag; World Host Group (same parent as FastComet, already in CSV), distinct brand",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0408",
+  "provider": "Linceris",
+  "website": "linceris.com",
+  "countries": [
+   "Morocco"
+  ],
+  "locations": "Casablanca",
+  "hosting_type": "VPS + dedicated",
+  "starting_price": "€14.99/mo",
+  "price_note": "€14.99/mo list / €7.50/mo promo (ittellyou quoting own site/LET)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Casablanca SARL, registered Mar 2026; Frankfurt VPS (Interwerk DC); no IPv6",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0409",
+  "provider": "SprintCDN",
+  "website": "sprintcdn.com",
+  "countries": [
+   "Ukraine"
+  ],
+  "locations": "Poland (DC)",
+  "hosting_type": "VPS + dedicated + DDoS + CDN",
+  "starting_price": "$10.00/mo",
+  "price_note": "$10.00/mo (VPSB trial)",
+  "crypto": "Yes",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2026; crypto accepted; DC Poland",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0410",
+  "provider": "ActivHosting",
+  "website": "activhosting.com",
+  "countries": [
+   "United Kingdom"
+  ],
+  "locations": "US (DCs)",
+  "hosting_type": "VPS + VPN + monitoring",
+  "starting_price": "£30.00/mo",
+  "price_note": "VPSB-tested plan only £30.00/mo (May 2023 trial — stale); entry price unverified",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2022; DCs US only",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0411",
+  "provider": "Linkdata.com",
+  "website": "linkdata.com",
+  "countries": [
+   "United Kingdom"
+  ],
+  "locations": "Iraq + UK (DCs)",
+  "hosting_type": "Domains + web + VPS",
+  "starting_price": "$60.00/mo",
+  "price_note": "VPSB-tested plan only $60.00/mo (May 2026 trial); entry price unverified",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Founded 2018; DCs Iraq + UK",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0412",
+  "provider": "X-ZoneServers",
+  "website": "x-zoneservers.com",
+  "countries": [
+   "Romania"
+  ],
+  "locations": "Romania",
+  "hosting_type": "KVM VPS + bare metal",
+  "starting_price": "€4/mo",
+  "price_note": "VPS €4/mo (WHTop, secondary); bare metal €209/mo; website not directly read; resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "X ZONE IT SRL",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0413",
+  "provider": "CloudWave",
+  "website": "cloudwavebd.com",
+  "countries": [
+   "Bangladesh"
+  ],
+  "locations": "Dhaka",
+  "hosting_type": "VPS (Linux/Windows RDP, hourly) + web",
+  "starting_price": "TK 599/mo",
+  "price_note": "TK 599/mo own site; Windows RDP $3.51/mo hourly; location-count conflict 70+ vs 95 — flag; resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Dhaka; NAME-COLLISION: US healthcare-cloud \"CloudWave\" is a different company",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0414",
+  "provider": "eVPS.net",
+  "website": "evps.net",
+  "countries": [
+   "Cyprus"
+  ],
+  "locations": "Single EU location",
+  "hosting_type": "VPS only (KVM, unmanaged, NVMe)",
+  "starting_price": "€5.00/mo",
+  "price_note": "€5.00/mo own site; 4-core plan €19/mo own site vs €12/mo HostAdvice — flag, own site wins",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "HostAdvice Top 25 VPS 2026 award winner; single EU location",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0415",
+  "provider": "Safaricom",
+  "website": "safaricom.co.ke",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Nairobi",
+  "hosting_type": "Shared hosting only",
+  "starting_price": "",
+  "price_note": "Price not established — shared only; no VPS/dedicated line found on WHTop",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Kenya's largest telco; shared hosting only",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0416",
+  "provider": "HostPinnacle",
+  "website": "hostpinnacle.co.ke",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Shared KES 2,875/yr (WHTop); VPS from KSh 1,100/mo per search snippet; VPS/dedicated price not established on own site",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Nairobi-area host",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0417",
+  "provider": "Sino Soft",
+  "website": "sinosoft.guru",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Nairobi",
+  "hosting_type": "Shared/VPS/bare metal/GPU",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Nairobi HQ",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0418",
+  "provider": "Enet",
+  "website": "enet.co.ke",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "Shared hosting only",
+  "starting_price": "",
+  "price_note": "Price not established — shared only",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0419",
+  "provider": "Webcom Kenya",
+  "website": "webcomkenya.com",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "Shared/VPS/dedicated/cloud",
+  "starting_price": "",
+  "price_note": "Shared ~KES 3,000/yr (WHTop); WHTop notes inconsistent prices/specs — verify",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0420",
+  "provider": "Orawebhost",
+  "website": "orawebhost.com",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0421",
+  "provider": "Digital WebFrame",
+  "website": "digitalwebframe.com",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Nairobi",
+  "hosting_type": "Shared/managed VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Nairobi",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0422",
+  "provider": "ShujaaHost",
+  "website": "shujaahost.co.ke",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Juja",
+  "hosting_type": "Shared/reseller/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Juja",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0423",
+  "provider": "Hostrina",
+  "website": "hostrina.com",
+  "countries": [
+   "Kenya"
+  ],
+  "locations": "Kenya",
+  "hosting_type": "Shared/reseller",
+  "starting_price": "",
+  "price_note": "Price not established; dedicated is placeholder \"\"Server 1\"\" Ksh 0.00 — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0424",
+  "provider": "Natro",
+  "website": "natro.com",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Istanbul",
+  "hosting_type": "Shared/VPS/VDS/dedicated",
+  "starting_price": "",
+  "price_note": "VPS price conflicts $15 vs $30 vs $39.99/mo (WHTop) — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Çizgi Telekomünikasyon A.Ş., since 1999",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0425",
+  "provider": "Keyubu",
+  "website": "keyubu.com",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Adana",
+  "hosting_type": "Shared/VPS/VDS/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not firmly established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Adana",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0426",
+  "provider": "Atak Domain",
+  "website": "atakdomain.com",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Kartepe/Kocaeli",
+  "hosting_type": "Shared/VPS/VDS",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Kartepe/Kocaeli, since 2003",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0427",
+  "provider": "Turhost",
+  "website": "turhost.com",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Turkey",
+  "hosting_type": "Shared/VPS/VDS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Çizgi/team.blue since 2022",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0428",
+  "provider": "İsimtescil",
+  "website": "isimtescil.net",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Istanbul",
+  "hosting_type": "Shared/VPS/VDS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Istanbul, since 1998",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0429",
+  "provider": "Güzel Hosting",
+  "website": "guzel.net.tr",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Istanbul + Denizli",
+  "hosting_type": "Shared/VPS/VDS/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Istanbul + Denizli",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0430",
+  "provider": "Turkticaret.Net",
+  "website": "turkticaret.net",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Istanbul",
+  "hosting_type": "Shared/cloud/GPU",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Istanbul, since 1999",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0431",
+  "provider": "Hosting Dünyam",
+  "website": "hostingdunyam.com.tr",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Istanbul",
+  "hosting_type": "Shared/VPS/VDS/cloud/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Istanbul, since 2017",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0432",
+  "provider": "Hosthink",
+  "website": "hosthink.net",
+  "countries": [
+   "Turkey"
+  ],
+  "locations": "Istanbul",
+  "hosting_type": "VPS/cloud/dedicated/GPU/colocation",
+  "starting_price": "$5/mo",
+  "price_note": "VPS from $5/mo (WHTop); dedicated in 71 locations",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Istanbul HQ; dedicated in 71 locations",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0433",
+  "provider": "Megahost",
+  "website": "megahost.kz",
+  "countries": [
+   "Kazakhstan"
+  ],
+  "locations": "Astana/Almaty/Aktau",
+  "hosting_type": "Shared/VPS/cloud",
+  "starting_price": "3000 KZT/mo",
+  "price_note": "VPS from 3,000 KZT/mo (WHTop); conflicts 2,700 / 2,383 KZT — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Astana/Almaty/Aktau",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0434",
+  "provider": "PS.kz",
+  "website": "ps.kz",
+  "countries": [
+   "Kazakhstan"
+  ],
+  "locations": "Almaty + Astana",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "$4.55/mo",
+  "price_note": "VPS KVM-1 $4.55/mo (HostAdvice); dedicated conflicts KZT 40,000 vs $150 vs $153.11 — flag; resolves held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "HQ verified Internet Company PS LLP, Almaty",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0435",
+  "provider": "SmartHost.kz",
+  "website": "smarthost.kz",
+  "countries": [
+   "Kazakhstan"
+  ],
+  "locations": "Kazakhstan",
+  "hosting_type": "Shared hosting only",
+  "starting_price": "6000 KZT/yr",
+  "price_note": "6,000 KZT/yr (WHTop); VPS new orders suspended",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Shared only; VPS new orders suspended",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0436",
+  "provider": "Rumahweb",
+  "website": "rumahweb.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Yogyakarta",
+  "hosting_type": "Shared/VPS/cloud/dedicated",
+  "starting_price": "Rp 25,000/mo",
+  "price_note": "Shared Rp 25,000/mo (WHTop)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Yogyakarta, since 2002",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0437",
+  "provider": "DomaiNesia",
+  "website": "domainesia.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Yogyakarta",
+  "hosting_type": "Shared/cloud/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Yogyakarta, since 2009",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0438",
+  "provider": "IDCloudHost",
+  "website": "idcloudhost.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Indonesia + Singapore",
+  "hosting_type": "Shared/cloud VPS/bare metal/dedicated/colocation",
+  "starting_price": "IDR 80,000",
+  "price_note": "CyberPanel VPS IDR 80,000 own site",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "ID + SG",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0439",
+  "provider": "IDwebhost",
+  "website": "idwebhost.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Yogyakarta",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established; dedicated is Vultr-based — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Yogyakarta, since 2004; dedicated is Vultr-based — flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0440",
+  "provider": "Biznet Gio",
+  "website": "biznetgio.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Jakarta",
+  "hosting_type": "Shared/VPS/bare metal/GPU/K8s",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Jakarta, est. 2014",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0441",
+  "provider": "Exabytes Indonesia",
+  "website": "exabytes.co.id",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Jakarta",
+  "hosting_type": "Shared/VPS/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Jakarta; Exabytes Group MY",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0442",
+  "provider": "JagoanHosting",
+  "website": "jagoanhosting.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Indonesia + Singapore",
+  "hosting_type": "Shared/cloud/VPS",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Malang, since 2007; ID + SG",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0443",
+  "provider": "Dewaweb",
+  "website": "dewaweb.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Jakarta + Singapore/US",
+  "hosting_type": "Cloud/VPS/PaaS",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Jakarta + SG/US, since 2014",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0444",
+  "provider": "Citrahost",
+  "website": "citrahost.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Yogyakarta + Solo",
+  "hosting_type": "Shared/VPS/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Yogyakarta + Solo",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0445",
+  "provider": "JetOrbit",
+  "website": "jetorbit.com",
+  "countries": [
+   "Indonesia"
+  ],
+  "locations": "Yogyakarta",
+  "hosting_type": "Shared/cloud VPS",
+  "starting_price": "Rp 59,000/mo",
+  "price_note": "Cloud VPS Rp 59,000/mo own site, excl. 11% VAT",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Yogyakarta",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0446",
+  "provider": "TrueFalseHosting.rs",
+  "website": "truefalsehosting.rs",
+  "countries": [
+   "Serbia"
+  ],
+  "locations": "Belgrade",
+  "hosting_type": "Shared/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established; dedicated hosted in DE",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Belgrade HQ, est. 2022; dedicated hosted in DE",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0447",
+  "provider": "Web Hosting Srbija",
+  "website": "webhostingsrbija.rs",
+  "countries": [
+   "Serbia"
+  ],
+  "locations": "Niš",
+  "hosting_type": "Shared/VPS",
+  "starting_price": "",
+  "price_note": "Price not established; new VPS orders currently unavailable — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Niš, since 2019; new VPS orders currently unavailable — flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0448",
+  "provider": "Unlimited.rs",
+  "website": "unlimited.rs",
+  "countries": [
+   "Serbia"
+  ],
+  "locations": "Belgrade + Meppel NL",
+  "hosting_type": "Shared hosting only",
+  "starting_price": "5490 RSD/yr",
+  "price_note": "Shared 5,490 RSD/yr (WHTop)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Belgrade + Meppel NL",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0449",
+  "provider": "Oblak.host",
+  "website": "oblak.host",
+  "countries": [
+   "Serbia"
+  ],
+  "locations": "Belgrade",
+  "hosting_type": "Shared/WordPress/domains only",
+  "starting_price": "",
+  "price_note": "Price not established — shared/WordPress/domains only",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Belgrade",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0450",
+  "provider": "Mint.rs",
+  "website": "mint.rs",
+  "countries": [
+   "Serbia"
+  ],
+  "locations": "Niš",
+  "hosting_type": "Shared/KVM VPS",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Niš, since 2009; Webglobe group since Apr 2024",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0451",
+  "provider": "SkyHosting",
+  "website": "skyhosting.rs",
+  "countries": [
+   "Serbia"
+  ],
+  "locations": "Niš",
+  "hosting_type": "Shared/OpenVZ VPS",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Niš, since 2014",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0452",
+  "provider": "Hosting.cl",
+  "website": "hosting.cl",
+  "countries": [
+   "Chile"
+  ],
+  "locations": "Santiago",
+  "hosting_type": "Shared/VPS/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Santiago, since 1999; same-group flag vs Hosting.pe — separate country operation",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0453",
+  "provider": "Hostingnet",
+  "website": "hostingnet.cl",
+  "countries": [
+   "Chile"
+  ],
+  "locations": "Santiago",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Santiago, own DC",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0454",
+  "provider": "Creattiva",
+  "website": "creattiva.cl",
+  "countries": [
+   "Chile"
+  ],
+  "locations": "Chile",
+  "hosting_type": "Shared/VPS/dedicated/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Chile, since 1999",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0455",
+  "provider": "ihosting",
+  "website": "ihosting.cl",
+  "countries": [
+   "Chile"
+  ],
+  "locations": "Viña del Mar + Santiago",
+  "hosting_type": "Shared/VPS/colocation",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Viña del Mar + Santiago, since 2002; co-founder also linked to HostingPlus — shared-founder flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0456",
+  "provider": "cPanelHost",
+  "website": "cpanelhost.cl",
+  "countries": [
+   "Chile"
+  ],
+  "locations": "Las Condes, Santiago",
+  "hosting_type": "Shared hosting only",
+  "starting_price": "",
+  "price_note": "Price not established — shared only; thin verification — page tail unread",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Las Condes, Santiago, est. 2012; thin verification — page tail unread",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0457",
+  "provider": "Dongee",
+  "website": "dongee.com",
+  "countries": [
+   "Colombia"
+  ],
+  "locations": "Bogotá",
+  "hosting_type": "Shared/cloud VPS/dedicated cloud",
+  "starting_price": "$15/mo",
+  "price_note": "AMD Cloud VPS $15/mo (WHTop)",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Bogotá",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0458",
+  "provider": "ColombiaHosting",
+  "website": "colombiahosting.com.co",
+  "countries": [
+   "Colombia"
+  ],
+  "locations": "Cali",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Cali, since 2006",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0459",
+  "provider": "ClickPanda",
+  "website": "clickpanda.com",
+  "countries": [
+   "Colombia"
+  ],
+  "locations": "Bogotá",
+  "hosting_type": "Shared/KVM VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Bogotá, since 2015",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0460",
+  "provider": "Latinoamérica Hosting",
+  "website": "latinoamericahosting.com",
+  "countries": [
+   "Colombia"
+  ],
+  "locations": "Medellín",
+  "hosting_type": "Shared/VPS/reseller",
+  "starting_price": "$1.55/mo",
+  "price_note": "Shared $1.55/mo secondary, unverified",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Medellín, since 2007",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0461",
+  "provider": "MI.COM.CO",
+  "website": "mi.com.co",
+  "countries": [
+   "Colombia"
+  ],
+  "locations": "Bogotá",
+  "hosting_type": "Hybrid shared hosting",
+  "starting_price": "",
+  "price_note": "Price not established; no VPS/dedicated in WHTop text",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Bogotá, since 2009",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0462",
+  "provider": "Imagina Colombia",
+  "website": "imaginacolombia.com",
+  "countries": [
+   "Colombia"
+  ],
+  "locations": "Bogotá + Ibagué",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Bogotá + Ibagué, since 2004",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0463",
+  "provider": "Hosting Perú",
+  "website": "hostingperu.com.pe",
+  "countries": [
+   "Peru"
+  ],
+  "locations": "Lima",
+  "hosting_type": "Shared/VPS/dedicated/cloud",
+  "starting_price": "S/6.90/mo",
+  "price_note": "Shared S/6.90/mo, VPS US$14.90/mo, dedicated ~US$859/qtr (WHTop); resolves Nov 5 Slot D held lead",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "INTERMEDIAHOST S.A.C.; distinct company from hosting-peru.pe — do not conflate",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0464",
+  "provider": "Yachay",
+  "website": "yachay.lat",
+  "countries": [
+   "Peru"
+  ],
+  "locations": "Peru",
+  "hosting_type": "Shared/Hosting Pro; VPS + dedicated quote-based",
+  "starting_price": "",
+  "price_note": "Price not established — VPS/dedicated quote-based",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Peru, since 2008",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0465",
+  "provider": "WPeru",
+  "website": "wperu.com",
+  "countries": [
+   "Peru"
+  ],
+  "locations": "Chiclayo",
+  "hosting_type": "Shared/VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Chiclayo, since 2004",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0466",
+  "provider": "Hosting Peru",
+  "website": "hosting-peru.pe",
+  "countries": [
+   "Peru"
+  ],
+  "locations": "Lima",
+  "hosting_type": "Shared/VPS cloud/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Lima, since 2009; Cosas Peruanas S.R.L. — distinct from hostingperu.com.pe, do not conflate",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0467",
+  "provider": "InkaWebDesign",
+  "website": "inkawebdesign.com",
+  "countries": [
+   "Peru"
+  ],
+  "locations": "Lima",
+  "hosting_type": "Shared/managed VPS/dedicated",
+  "starting_price": "",
+  "price_note": "Price not established; dedicated configs cite obsolete hardware — flag",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Lima; dedicated configs cite obsolete hardware — flag",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ },
+ {
+  "id": "H0468",
+  "provider": "HostingWeb",
+  "website": "hostingweb.pe",
+  "countries": [
+   "Peru"
+  ],
+  "locations": "Peru",
+  "hosting_type": "Shared/KVM VPS/reseller",
+  "starting_price": "",
+  "price_note": "Price not established",
+  "crypto": "",
+  "kyc": "",
+  "dmca_stance": "",
+  "privacy_notes": "Peru, since 2013; also HWPerú brand",
+  "date_added": "2026-11-06",
+  "affiliate_url": null
+ }
+]
