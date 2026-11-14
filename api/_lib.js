@@ -8,8 +8,11 @@
 // serverless memory and reset on cold start, and each instance counts
 // separately, so /api/stats usage numbers are a LOWER BOUND / rough signal,
 // not exact totals. The structured console.log line emitted per search
-// (api/search.js) is the durable record — Vercel keeps runtime logs. Exact
-// persistent counts would need Vercel KV / Upstash Redis (not added here).
+// (api/search.js) and per click (api/go.js) is the durable record — Vercel
+// keeps runtime logs. Exact persistent counts would need Vercel KV / Upstash
+// Redis (not added here, but recordClick() will write to Upstash REST if
+// UPSTASH_REDIS_REST_URL + UPSTASH_REDIS_REST_TOKEN are set — free tier,
+// $0, 10k commands/day, no bill when over the limit).
 // Aggregate counts only — no IPs, API keys, or raw user data are stored.
 
 const fs = require('fs');
@@ -62,7 +65,25 @@ function checkRateLimit(req, paid) {
   return { allowed: n <= cap, used: n, cap, ip };
 }
 
-const BASIC_FIELDS = ['id', 'provider', 'website', 'countries', 'hosting_type', 'starting_price', 'affiliate_url'];
+const BASIC_FIELDS = ['id', 'provider', 'website', 'countries', 'hosting_type', 'starting_price', 'affiliate_url', 'click_url'];
+
+// Public base URL for click links. Override with CLICK_BASE_URL env when
+// the deployment hostname differs (e.g. a preview deployment).
+const CLICK_BASE_URL = (process.env.CLICK_BASE_URL || 'https://hosting-finder-eta.vercel.app').replace(/\/$/, '');
+
+function clickUrl(id, src) {
+  const s = src ? '&src=' + encodeURIComponent(String(src)) : '';
+  return CLICK_BASE_URL + '/api/go?id=' + encodeURIComponent(String(id || '').toUpperCase()) + s;
+}
+
+function targetUrl(p) {
+  // Affiliate link first (this is what earns), otherwise the provider site.
+  // Only ever redirect to a URL from the dataset — never to a caller-supplied URL.
+  if (p && p.affiliate_url) return { url: p.affiliate_url, kind: 'affiliate' };
+  const w = p ? String(p.website || '').trim() : '';
+  if (!w) return { url: null, kind: 'website' };
+  return { url: /^https?:\/\//i.test(w) ? w : 'https://' + w, kind: 'website' };
+}
 
 // --- Usage tracking (in-memory, per instance; see header note) ---
 const instanceStartedAt = new Date().toISOString();
@@ -80,6 +101,15 @@ const usage = {
   provider_lookups_with_affiliate: 0,
   _topQueries: new Map(), // lowercased q -> count
   _topFilters: new Map(), // "param=value" -> count
+  // Clicks via /api/go (the affiliate-link tracker). Same in-memory caveat
+  // as searches above; the console.log line in api/go.js is the durable record.
+  total_clicks: 0,
+  clicks_today: 0,
+  _clicksToday: new Date().toISOString().slice(0, 10), // internal; stripped in getUsage()
+  affiliate_clicks: 0,
+  website_clicks: 0,
+  _topClicked: new Map(), // provider id -> count
+  _clickSrc: new Map(), // src=skill|api|web|other -> count
 };
 
 function _bump(map, key) {
@@ -137,6 +167,44 @@ function recordProviderLookup(opts) {
   } catch (e) { /* tracking must never throw */ }
 }
 
+// Record one click through /api/go. opts: { provider, kind, src }.
+// kind is 'affiliate' (redirected to affiliate_url — the earning click)
+// or 'website' (no affiliate link, redirected to the provider site).
+// Never throws and never blocks the redirect — tracking must never break a click.
+function recordClick(opts) {
+  try {
+    const o = opts || {};
+    const today = new Date().toISOString().slice(0, 10);
+    if (usage._clicksToday !== today) { usage._clicksToday = today; usage.clicks_today = 0; }
+    usage.total_clicks += 1;
+    usage.clicks_today += 1;
+    if (o.kind === 'affiliate') usage.affiliate_clicks += 1;
+    else usage.website_clicks += 1;
+    const id = o.provider && o.provider.id ? String(o.provider.id).toUpperCase() : '';
+    if (id) _bump(usage._topClicked, id);
+    const src = (o.src && String(o.src).trim().toLowerCase()) || 'unknown';
+    _bump(usage._clickSrc, src);
+    // Optional persistent store: Upstash Redis REST, fire-and-forget.
+    // Only runs when both env vars are set. No await, no throw.
+    try {
+      const url = process.env.UPSTASH_REDIS_REST_URL;
+      const token = process.env.UPSTASH_REDIS_REST_TOKEN;
+      if (url && token && typeof fetch === 'function') {
+        const base = String(url).replace(/\/$/, '');
+        const headers = { Authorization: 'Bearer ' + token };
+        const calls = [
+          fetch(base + '/incr/hf:clicks:total', { headers }).catch(() => {}),
+          fetch(base + '/incr/hf:clicks:today:' + today, { headers }).catch(() => {}),
+          fetch(base + '/incr/hf:clicks:kind:' + (o.kind === 'affiliate' ? 'affiliate' : 'website'), { headers }).catch(() => {}),
+        ];
+        if (id) calls.push(fetch(base + '/incr/hf:clicks:provider:' + encodeURIComponent(id), { headers }).catch(() => {}));
+        if (src) calls.push(fetch(base + '/incr/hf:clicks:src:' + encodeURIComponent(src), { headers }).catch(() => {}));
+        Promise.allSettled(calls).catch(() => {});
+      }
+    } catch (e) { /* optional store must never break a click */ }
+  } catch (e) { /* tracking must never throw */ }
+}
+
 function getUsage() {
   const today = new Date().toISOString().slice(0, 10);
   return {
@@ -153,13 +221,24 @@ function getUsage() {
     provider_lookups_with_affiliate: usage.provider_lookups_with_affiliate,
     top_queries: _topEntries(usage._topQueries, 20),
     top_filters: _topEntries(usage._topFilters, 20),
+    total_clicks: usage.total_clicks,
+    clicks_today: usage._clicksToday === today ? usage.clicks_today : 0,
+    affiliate_clicks: usage.affiliate_clicks,
+    website_clicks: usage.website_clicks,
+    top_clicked_providers: _topEntries(usage._topClicked, 20),
+    clicks_by_source: _topEntries(usage._clickSrc, 20),
   };
 }
 
 function project(p, paid) {
-  if (paid) return p;
-  const out = {};
-  for (const f of BASIC_FIELDS) out[f] = p[f];
+  const out = paid ? { ...p } : {};
+  if (!paid) {
+    for (const f of BASIC_FIELDS) out[f] = p[f];
+  }
+  // Every result carries its tracked click link, free or paid. Agents and
+  // the web page should link through click_url, not affiliate_url directly,
+  // so clicks are counted. affiliate_url stays as the raw link for reference.
+  out.click_url = clickUrl(p.id);
   return out;
 }
 
@@ -223,4 +302,4 @@ function filterProviders(params) {
   return list;
 }
 
-module.exports = { loadProviders, isPaid, checkRateLimit, project, filterProviders, FREE_LIMIT, PAID_LIMIT, recordSearch, recordProviderLookup, getUsage };
+module.exports = { loadProviders, isPaid, checkRateLimit, project, filterProviders, FREE_LIMIT, PAID_LIMIT, recordSearch, recordProviderLookup, recordClick, getUsage, clickUrl, targetUrl };
