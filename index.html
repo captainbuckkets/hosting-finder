@@ -59,6 +59,7 @@ footer { margin-top: 2rem; border-top: 1px solid #ddd; padding-top: 1rem; font-s
 <h2>API</h2>
 <pre>GET /api/search?type=vps&amp;country=Germany&amp;max_price=10&amp;limit=10
 GET /api/provider?id=H0001
+GET /api/go?id=H0318&amp;src=web
 GET /api/stats</pre>
 <p>Free tier: no key needed, 10 results per query, 20 requests/day per IP. Paid tier (API key): 100 results, all fields, 200/day.</p>
 
@@ -107,7 +108,10 @@ async function runSearch() {
     }
     statusEl.textContent = 'Showing ' + data.returned + ' of ' + data.total + ' matching providers.';
     resultsEl.innerHTML = data.results.map(p => {
-      const url = p.affiliate_url || ('https://' + p.website);
+      // Route every outbound link through /api/go so clicks are counted.
+      // click_url is the tracked link; fall back to the raw affiliate link,
+      // then to the provider site, if it is ever missing.
+      const url = p.click_url ? p.click_url + '&src=web' : (p.affiliate_url || ('https://' + p.website));
       const price = p.starting_price ? esc(p.starting_price) : 'price not listed';
       const aff = p.affiliate_url ? ' <span class="aff">(affiliate link)</span>' : '';
       return '<div class="result"><h3><a href="' + esc(url) + '" target="_blank" rel="noopener sponsored">' + esc(p.provider) + '</a>' + aff + '</h3>'
